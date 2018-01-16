@@ -115,17 +115,13 @@
             <a class="close-reveal-modal" aria-label="Close">&#215;</a>
         </div>
         <div id="home" class="reveal-modal" data-reveal aria-labelledby="home" aria-hidden="true" role="dialog">
-            <h2>#loadwave. Change the way you interact with videos! </h2>
-		<h4 style="color: #B20000">(this application is under test yet.)</h4>
-            <p>loadwave.com comes with new rules in the video sharing world… From now, you are able to search about everything you want inside videos… From now, every moment in a video can be precious for you, find it, comment and describe it with keywords… From now you don’t have to watch an entire video of many minutes to reach the moment you want.</p>
-            <h3>What exactly “loadwave” is ? How it works?</h3>
-            <p>“loadwave” is a simple web application, it’s a kind of video sharing website that implements a new feature, it is the possibility to make comments related to a specific moment in a video, every comment is associated to the second you have sent. By this way, comments play the role of a descriptor for video frames.</p>
-            <h3>Home page ? (if you see this page, that means you are already logged in)</h3>
+            <h3>Intro</h3>
+            <p>loadwave changes the way you interact with videos... 😍 “loadwave” is a simple web application, it’s a kind of video sharing website based on youtube that implements a new feature, it is the possibility to make comments related to a specific moment in a video, every comment is associated to the second you have sent (Timed Comments) ⌚️. By this way, comments play the role of a descriptor 📝 for video frames.</p>
+            <h3>Usage</h3>
             <p>First thing you have to do is to sign up, you can use facebook, twitter, google authentification system to save time. Than you can access to the home page where you find a dashboard and the top commented videos, you choose one of those videos. Or you can choose a video from youtube website and modify the url from:
-            <a href="http://www.youtube.com/watch?v=U3_d2RH9bqk">http://www.youtube.com/watch?v=U3_d2RH9bqk</a>
+            <a href="https://www.youtube.com/watch?v=U3_d2RH9bqk">http://www.youtube.com/watch?v=U3_d2RH9bqk</a>
             To
-            <a href="http://www.loadwave.com/watch?v=U3_d2RH9bqk">http://www.loadwave.com/watch?v=U3_d2RH9bqk</a>
-            Very simple, isn't it?
+            <a href="https://loadwave.herokuapp.com/watch?v=U3_d2RH9bqk">http://www.loadwave.com/watch?v=U3_d2RH9bqk</a>
             </p>
         </div>
         <div id="main" class="large-12 medium-12 small-12 column" ng-controller="HomeController">
