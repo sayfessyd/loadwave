@@ -1,0 +1,17 @@
+RewriteEngine On
+
+#RewriteCond %{HTTP_HOST} !^www\.
+#RewriteRule ^(.*)$ http://www.%{HTTP_HOST}/$1 [R=301,L]
+RewriteRule ^$ public/index.php [L]
+RewriteRule ^login/$ auth/login.php [L]
+RewriteRule ^login/with/$ auth/login_with.php [L]
+RewriteRule ^signup/$ auth/signup.php [L]
+RewriteRule ^logout/$ auth/logout.php [L]
+RewriteRule ^confirm/$ auth/confirm.php [L]
+RewriteRule ^resend/$ auth/resend.php [L]
+RewriteRule ^delete/$ auth/delete.php [L]
+RewriteRule ^feedback/$ contact/feedback.php [L]
+RewriteRule ^hybridauth/$ auth/hybridauth/index.php [L]
+RewriteRule ^watch$ public/index.php
+
+#php_flag short_open_tag on

@@ -1,0 +1,25 @@
+{
+  "name": "sayfessyd/loadwave",
+  "description": "loadwave is a simple web application, it’s a kind of video sharing website that implements a new feature, it is the possibility to make comments related to a specific moment in a video, every comment is associated to the second you have sent (Timed Comments). By this way, comments play the role of a descriptor for video frames.",
+  "authors": [
+    {
+      "name": "Sayf Essyd",
+      "email": "mail.sayf@yahoo.com"
+    }
+  ],
+  "config": {
+    "vendor-dir": "php-packages"
+  },
+  "require": {
+    "php": ">=5.6.4",
+    "illuminate/hashing": "5.4.*",
+    "hybridauth/hybridauth" : "2.*"
+  },
+  "autoload": {
+     "psr-4": {
+       "Loadwave\\App\\": "./app",
+       "Loadwave\\Auth\\": "./auth"
+      }
+  }
+  
+}

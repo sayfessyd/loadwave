@@ -1,0 +1,42 @@
+.oneline,
+.video h5 {
+    width: 100%;
+    text-align: center;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis
+}
+
+.video h5 {
+    color: #3f3e3d
+}
+
+.video p {
+    font-style: italic;
+    font-size: 14px;
+    display: inline-block;
+    color: #888;
+    text-align: justify;
+}
+
+.desc{
+    height: 67px;
+    overflow: auto;
+}
+
+.video-click {
+    -webkit-animation: flash 2s linear !important;
+    animation: flash 2s linear !important
+}
+
+#flag {
+    border: 1px solid #d2d2d2
+}
+
+.play {
+    margin-top: 15px
+}
+
+.play a {
+    color: #3f3e3d
+}
