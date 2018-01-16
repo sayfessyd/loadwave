@@ -5,7 +5,7 @@
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>loadwave</title>
-        <link rel="shortcut icon" href=<?= Url::asset("Logo.png") ?> />
+        <link rel="shortcut icon" href=<?= Url::asset("loadwave.png") ?> />
         <!-- CSS -->
             <!-- libraries -->
             <link rel="stylesheet" type="text/css" href=<?= Url::asset("lib/foundation.min.css") ?> />
