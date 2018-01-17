@@ -208,7 +208,7 @@ var bg = 7;
 if (getCookie("backg") != "") {
     bg = getCookie("backg")
 }
-var bg_max = 9;
+var bg_max = 10;
 function changeBg(a) {
     if (a == -1) {
         if (bg > 0) {
