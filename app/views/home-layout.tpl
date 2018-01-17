@@ -5,7 +5,7 @@
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>loadwave</title>
-        <link rel="shortcut icon" href=<?= Url::asset("loadwave.png") ?> />
+        <link rel="shortcut icon" href=<?= Url::asset("loadwave3.png") ?> />
         <!-- CSS -->
             <!-- libraries -->
             <link rel="stylesheet" type="text/css" href=<?= Url::asset("lib/foundation.min.css") ?> />
@@ -39,7 +39,7 @@
                 <a href="#search" data-reveal-id="search"><i class="fa fa-2x fa-search faa-tada animated-hover">  </i> </a>
                 <a href="#filter" data-reveal-id="filter"><i class="fa fa-2x fa-th-large faa-pulse animated-hover ">  </i> </a>
                 <a href="/">
-                    <img width="70px" style="position:fixed; margin-left:-35px; margin-top:-29px" src=<?= Url::asset("loadwave.png") ?> />
+                    <img width="90px" style="position:fixed; margin-left:-35px; margin-top:-29px" src=<?= Url::asset("loadwave.png") ?> />
                 </a>
                 <a href="#feedback" data-reveal-id="feedback"><i class="fa fa-2x fa-envelope faa-horizontal animated-hover"> </i> </a>
                 <a href="#user" data-reveal-id="user"><i class="fa fa-2x fa-user faa-wrench animated-hover"> </i> </a>

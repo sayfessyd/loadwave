@@ -5,7 +5,7 @@
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>loadwave</title>
-        <link rel="shortcut icon" href=<?= Url::asset("loadwave.png") ?> />
+        <link rel="shortcut icon" href=<?= Url::asset("loadwave3.png") ?> />
         <!-- CSS -->
             <!-- libraries -->
             <link rel="stylesheet" type="text/css" href=<?= Url::asset("lib/foundation.min.css") ?> />
@@ -37,7 +37,7 @@
             <div class="tab">
                 <a href="#video-size" style="width: 33%" data-reveal-id="video-size"><i class="fa fa-2x fa-desktop faa-tada animated-hover">  </i> </a>
                 <a href="/" style="width: 33%;position:fixed;margin-top:1px">
-                    <img width="70px" src=<?= Url::asset("loadwave.png") ?> />
+                    <img width="90px" src=<?= Url::asset("loadwave3.png") ?> />
                     <h5 id="countdown"> 15</h5>
                 </a>
                 <a href="#customize" style="width: 33%" data-reveal-id="customize"><i class="fa fa-2x fa-wrench faa-wrench animated-hover"> </i> </a>
