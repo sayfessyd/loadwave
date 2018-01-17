@@ -131,7 +131,7 @@
                     <i class="fa fa-youtube-square fa-2x"> </i> <h5>  {{ video.data.title }}</h5>
                     <img alt="Image loaded from youtube server." src="{{ video.data.thumbnails.high.url }}" />
                     <h5 class="play"><a href="/watch?v={{ video.video_id }}&start={{ video.seconds }}"><i class="fa fa-podcast fa-2x"></i> Watch Video</a></h5>
-                    <h5 class="timer"><i class="fa fa-clock-o fa-2x"><i style="font-style: normal; font-family: sans-serif"> {{ video.video_time }}{{ video.data.duration }}</i></i></h5>
+                    <h5 class="timer"><i class="fa fa-clock-o fa-2x" style="margin-right: 5px;"><i style="font-style: normal; font-family: sans-serif"> {{ video.video_time }}{{ video.data.duration }}</i></i></h5>
                     <p class="desc">{{ video.data.description }}</p>
                     <div class="panel radius trans" ng-show="video.comments">
                         <i style="float: right" class="fa like fa-heart-o fa-2x faa-pulse animated"><i style="font-style: normal; font-family: sans-serif">{{ video.comments[0][1] }}</i></i>
