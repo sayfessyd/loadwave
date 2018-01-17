@@ -39,7 +39,7 @@
                 <a href="#search" data-reveal-id="search"><i class="fa fa-2x fa-search faa-tada animated-hover">  </i> </a>
                 <a href="#filter" data-reveal-id="filter"><i class="fa fa-2x fa-th-large faa-pulse animated-hover ">  </i> </a>
                 <a href="/">
-                    <img width="90px" style="position:fixed; margin-left:-35px; margin-top:-29px" src=<?= Url::asset("loadwave3.png") ?> />
+                    <img width="90px" style="position:fixed; margin-left:-50px; margin-top:-35px" src=<?= Url::asset("loadwave3.png") ?> />
                 </a>
                 <a href="#feedback" data-reveal-id="feedback"><i class="fa fa-2x fa-envelope faa-horizontal animated-hover"> </i> </a>
                 <a href="#user" data-reveal-id="user"><i class="fa fa-2x fa-user faa-wrench animated-hover"> </i> </a>
