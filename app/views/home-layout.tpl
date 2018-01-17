@@ -42,7 +42,7 @@
                     <img width="90px" style="position:fixed; margin-left:-50px; margin-top:-35px" src=<?= Url::asset("loadwave3.png") ?> />
                 </a>
                 <a href="#feedback" data-reveal-id="feedback"><i class="fa fa-2x fa-envelope faa-horizontal animated-hover"> </i> </a>
-                <a href="#user" data-reveal-id="user"><i class="fa fa-2x fa-user faa-wrench animated-hover"> </i> </a>
+                <a href="#user" data-reveal-id="user"><i class="fa fa-2x fa-user-circle-o faa-wrench animated-hover"> </i> </a>
             </div>
         </header>
         <div id="loading" class="uil-ripple-css" style="-webkit-transform:scale(0.8)">
@@ -128,10 +128,10 @@
         <div id="main" class="large-12 medium-12 small-12 column" ng-controller="HomeController">
             <div class="small-12 medium-4 large-3 columns toggle" ng-repeat="video in videos | filter:videoFilter">
                 <div class="panel radius video trans">
-                    <i class="fa fa-youtube fa-2x"> </i> <h5>  {{ video.data.title }}</h5>
+                    <i class="fa fa-youtube-square fa-2x"> </i> <h5>  {{ video.data.title }}</h5>
                     <img alt="Image loaded from youtube server." src="{{ video.data.thumbnails.high.url }}" />
-                    <h5 class="play"><a href="/watch?v={{ video.video_id }}&start={{ video.seconds }}"><i class="fa fa-laptop fa-2x"></i> Watch Video</a></h5>
-                    <h5 class="timer"><i class="fa fa-history fa-2x"><i style="font-style: normal; font-family: sans-serif"> {{ video.video_time }}{{ video.data.duration }}</i></i></h5>
+                    <h5 class="play"><a href="/watch?v={{ video.video_id }}&start={{ video.seconds }}"><i class="fa fa-podcast fa-2x"></i> Watch Video</a></h5>
+                    <h5 class="timer"><i class="fa fa-clock-o fa-2x"><i style="font-style: normal; font-family: sans-serif"> {{ video.video_time }}{{ video.data.duration }}</i></i></h5>
                     <p class="desc">{{ video.data.description }}</p>
                     <div class="panel radius trans" ng-show="video.comments">
                         <i style="float: right" class="fa like fa-heart-o fa-2x faa-pulse animated"><i style="font-style: normal; font-family: sans-serif">{{ video.comments[0][1] }}</i></i>
