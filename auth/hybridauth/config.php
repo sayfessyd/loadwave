@@ -12,7 +12,7 @@
 // ----------------------------------------------------------------------------------------
 
 return array(
-    "base_url" => "http://".$_SERVER['SERVER_NAME']."/hybridauth/",
+    "base_url" => "https://".$_SERVER['SERVER_NAME']."/hybridauth/",
     "providers" => array(
         // openid providers
         "OpenID" => array(
