@@ -1,4 +1,4 @@
-<? use Loadwave\App\Url; ?>
+<?php use Loadwave\App\Url; ?>
 <!DOCTYPE html>
 <html>
     <head>
