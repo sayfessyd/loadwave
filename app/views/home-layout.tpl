@@ -123,6 +123,7 @@
             To
             <a href="https://loadwave.herokuapp.com/watch?v=U3_d2RH9bqk">http://www.loadwave.com/watch?v=U3_d2RH9bqk</a>
             </p>
+            <a class="close-reveal-modal" aria-label="Close">&#215;</a>
         </div>
         <div id="main" class="large-12 medium-12 small-12 column" ng-controller="HomeController">
             <div class="small-12 medium-4 large-3 columns toggle" ng-repeat="video in videos | filter:videoFilter">
