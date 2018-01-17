@@ -14,4 +14,4 @@ RewriteRule ^feedback/$ contact/feedback.php [L]
 RewriteRule ^hybridauth/$ auth/hybridauth/index.php [L]
 RewriteRule ^watch$ public/index.php
 
-#php_flag short_open_tag on
+php_flag short_open_tag on

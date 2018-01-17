@@ -34,7 +34,7 @@
         <div class="authHomePage">
             <?= $auth ?>
         </div>
-        <a href="#top" id="top"><i class="fa fa-chevron-circle-up fa-2x faa-vertical animated"></i></a>
+        <a href="#top" id="top"><i class="fa fa-arrow-circle-up fa-2x faa-vertical animated"></i></a>
         <!-- libraries -->
         <script type="text/javascript" src=<?= Url::asset("lib/foundation.min.js") ?> ></script>
         <script type="text/javascript" src=<?= Url::asset("lib/foundation/foundation.abide.min.js") ?>></script>
