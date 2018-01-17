@@ -3,7 +3,7 @@ $(document).ready(function() {
     $("#player").css("max-width", (main - 18));
     $("#comment-block").css("max-width", (main - 18));
     if (getCookie("backg") == "") {
-        src = base + "css/img/back7.jpg";
+        src = base + "css/img/back10.jpg";
         document.getElementById("backg").src = src
     } else {
         bg = getCookie("backg");
@@ -204,7 +204,7 @@ function biggerSize(a) {
     }
 }
 
-var bg = 7;
+var bg = 10;
 if (getCookie("backg") != "") {
     bg = getCookie("backg")
 }
