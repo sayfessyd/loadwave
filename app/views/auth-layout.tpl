@@ -23,7 +23,7 @@
     <body>
         <header>
             <div align="center">
-                <img width="90px" style="margin-top: 7px" src=<?= Url::asset("loadwave3.png") ?> />
+                <img width="90px" style="margin-top: -5px" src=<?= Url::asset("loadwave3.png") ?> />
             </div>
         </header>
         <div id="response" class="reveal-modal" data-reveal aria-labelledby="response" aria-hidden="true" role="dialog">
