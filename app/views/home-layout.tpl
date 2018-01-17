@@ -93,9 +93,9 @@
                 <li><strong>Gender: </strong><?= htmlentities($user['gender']) ?></li>
                 <li><i id="all-count" class="fa fa-heart-o fa-2x"><i style="font-style: normal; font-family: sans-serif"> <?= $user['likes'] ?></i></i></li>
                 <li><i id="sess-count" class="fa fa-heart-o fa-2x" style="color: #ee9572"><i style="font-style: normal; font-family: sans-serif"> <?= $_SESSION['likes'] ?></i></i></li>
-                <? if ($_SESSION['confirmed'] == '0'): ?>
+                <?php if ($_SESSION['confirmed'] == '0'): ?>
                 <li><a href=<?= '"/resend/?token='.$token.'"' ?> >Resend Confirmation Email</a></li>
-                <? endif ?>
+                <?php endif ?>
                 <li><a href="#delete" data-reveal-id="delete">Delete Account</a></li>
                 <br />
                 <a href=<?= '"/logout/?token='.$token.'"' ?> class="button">LogOut <i class="fa fa-sign-out"> </i></a>
@@ -160,7 +160,7 @@
                 videoId: 'U3_d2RH9bqk'
               });
             }
-            <? if (isset($js_body)): echo $js_body; else: echo ""; endif;?>
+            <?php if (isset($js_body)): echo $js_body; else: echo ""; endif;?>
             function help () {
                 $("#home").foundation("reveal","open");
             }

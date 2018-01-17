@@ -54,7 +54,7 @@
             $("#top").click(function(){
                 $('html, body').animate({scrollTop : 0},700);
             });
-            <? if (isset($js_body)): echo $js_body; endif ?>
+            <?php if (isset($js_body)): echo $js_body; endif ?>
         </script>
     </body>
 </html>
