@@ -116,9 +116,9 @@
         </div>
         <div id="home" class="reveal-modal" data-reveal aria-labelledby="home" aria-hidden="true" role="dialog">
             <h3>Intro</h3>
-            <p>loadwave changes the way you interact with videos... 😍 “loadwave” is a simple web application, it’s a kind of video sharing website based on youtube that implements a new feature, it is the possibility to make comments related to a specific moment in a video, every comment is associated to the second you have sent (Timed Comments) ⌚️. By this way, comments play the role of a descriptor 📝 for video frames.</p>
+            <p>loadwave changes the way you interact with videos... 😍 “loadwave” is a simple web application, it’s a kind of video sharing website based on youtube that implements a new feature, it's the possibility to make comments related to a specific moment in a video, every comment is associated to the second you have sent (Timed Comments) ⌚️. By this way, comments play the role of a descriptor 📝 for video frames.</p>
             <h3>Usage</h3>
-            <p>First thing you have to do is to sign up, you can use facebook, twitter, google authentification system to save time. Than you can access to the home page where you find a dashboard and the top commented videos, you choose one of those videos. Or you can choose a video from youtube website and modify the url from:
+            <p>First thing you have to do is to sign up, you can use facebook, twitter, google authentification system to save time. Then you can access to the home page where you find a dashboard and the top commented videos, you choose one of those videos. Or you can choose a video from youtube website and modify the url from:
             <a href="https://www.youtube.com/watch?v=3AtDnEC4zak">https://www.youtube.com/watch?v=3AtDnEC4zak</a>
             To
             <a href="https://loadwave.herokuapp.com/watch?v=3AtDnEC4zak">https://loadwave.herokuapp.com/watch?v=3AtDnEC4zak</a>

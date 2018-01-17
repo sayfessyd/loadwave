@@ -108,7 +108,7 @@
                     <input type="text" id="content" ng-model="comment" placeholder="Write your comment here !">
                 </div>
                 <div class="small-5 columns">
-                    <a href="javascript:sendComment()" class="button postfix"><!-- {{ comment.length }}  -->Publish <i class="fa fa-comment-o" style="color: #fff"> </i></a>
+                    <a href="javascript:sendComment()" class="button postfix"><!-- {{ comment.length }}  -->Publish <i class="fa fa-send" style="color: #fff"> </i></a>
                 </div>
             </div>
         </div>
