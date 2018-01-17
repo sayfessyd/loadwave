@@ -34,7 +34,8 @@
 }
 
 .play {
-    margin-top: 15px
+    margin-top: 15px;
+    padding-top: 3px;
 }
 
 .play a {
