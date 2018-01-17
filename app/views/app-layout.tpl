@@ -63,7 +63,7 @@
                 <a id="arrsxx" class="arr" href="javascript:changeOp(1)"><i class="fa fa-caret-right  fa-2x">  </i></a>
                 <h3><br /> Refresh Time <i class="fa fa-refresh ">  </i></h3><small>This option take effect after replaying video.</small>
                 <input type="number" id="offset" min="3" max="30" style="width: 50%" ng-model="offset" placeholder="15">
-                <h3>Max Comments <i class="fa fa-comments-o">  </i></h3>
+                <h3>Max Comments <i class="fa fa-comment-o">  </i></h3>
                 <input type="number" id="limit" min="1" max="40" style="width: 50%" ng-model="limit" placeholder="20">
             </div>
             <a class="close-reveal-modal" aria-label="Close">&#215;</a>
