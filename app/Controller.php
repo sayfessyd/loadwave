@@ -15,8 +15,7 @@ class Controller{
     	elseif ( isset($_GET['error']) && ($_GET['error']=="signup") )
 			$message = "Sorry, your email or your username is already used, please try to change one of them or both.";
     	elseif ( isset($_GET['success']) && ($_GET['success']=="signup") )
-			$message = 'Congratulation ! , you have been registered, from now you can login to this application.<br /> <strong style="color:#b20000">
-			Note: </strong>a confirmation email has been sent to your Email,  Do not forget to confirm your registration.';
+			$message = 'Congratulation ! , you have been registered, from now you can login to this application.';
 		elseif ( isset($_GET['success']) && ($_GET['success']=="confirm") )
 			$message = "Congratulation ! , your registration has been confirmed.";
 		elseif ( isset($_GET['error']) && ($_GET['error']=="confirm") )

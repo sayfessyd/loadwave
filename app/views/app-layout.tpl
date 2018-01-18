@@ -36,7 +36,7 @@
         <header>
             <div class="tab">
                 <a href="#video-size" style="width: 33%" data-reveal-id="video-size"><i class="fa fa-2x fa-desktop faa-tada animated-hover">  </i> </a>
-                <a href="/" style="width: 33%;position:fixed;margin-top:-5px">
+                <a href=<?= Url::getBase().'"' ?> style="width: 33%;position:fixed;margin-top:-5px">
                     <img width="90px" src=<?= Url::asset("loadwave3.png") ?> />
                     <h5 id="countdown"> 15</h5>
                 </a>

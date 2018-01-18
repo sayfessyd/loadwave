@@ -23,7 +23,9 @@
     <body>
         <header>
             <div align="center">
-                <img width="90px" style="margin-top: -5px" src=<?= Url::asset("loadwave3.png") ?> />
+                <a href=<?= Url::getBase().'"' ?> >
+                    <img width="90px" style="margin-top: -5px" src=<?= Url::asset("loadwave3.png") ?> />
+                </a>
             </div>
         </header>
         <div id="response" class="reveal-modal" data-reveal aria-labelledby="response" aria-hidden="true" role="dialog">
@@ -33,6 +35,8 @@
         </div>
         <div class="authHomePage">
             <?= $auth ?>
+            <br/>
+            <small style="float: right">&copy; 2015-2018 loadwave.com</small>
         </div>
         <a href="#top" id="top"><i class="fa fa-arrow-circle-up fa-2x faa-vertical animated"></i></a>
         <!-- libraries -->
