@@ -33,7 +33,7 @@ $(document).ajaxStop(function() {
             audio = document.getElementById("audiotag1");
             random = Math.floor((Math.random() * 9) + 1);
             audio.src = base + "audio/playful_reveal_melodic_0" + random + ".mp3";
-            audio.volume = 0.2;
+            audio.volume = 0.4;
             audio.play();
             $("#sess-count i").text(" " + (parseInt($("#sess-count i").text(), 10) + 1));
             nb = like.children();
@@ -183,7 +183,7 @@ function sendComment() {
             audio = document.getElementById("audiotag2");
             random = Math.floor((Math.random() * 4) + 1);
             audio.src = base + "audio/create_0" + random + ".mp3";
-            audio.volume = 0.2;
+            audio.volume = 0.4;
             audio.play()
         }
     })
