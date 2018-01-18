@@ -71,12 +71,12 @@
             <a class="close-reveal-modal" aria-label="Close">&#215;</a>
         </div>
         <div id="feedback" class="reveal-modal medium" data-reveal aria-labelledby="feedback" aria-hidden="true" role="dialog">
-            <h3>FeedBack <i class="fa fa-undo"> </i> </h3>
+            <h3>FeedBack  </h3>
             <form name="feedback" method="post" action="/feedback/" >
                 <div class="row">
                     <textarea name="message" rows="6" style="margin-bottom: -1px; resize: none" placeholder="Write your message hear !" maxlength="200" required></textarea>
                     <input name="token" type="hidden" value=<?= '"'.$token.'"' ?> >
-                    <button type="submit">Send Message</button>
+                    <button type="submit">Send Message <i class="fa fa-undo"> </i></button>
                 </div>
             </form>
             <a class="close-reveal-modal" aria-label="Close">&#215;</a>
@@ -103,22 +103,27 @@
             <a class="close-reveal-modal" aria-label="Close">&#215;</a>
         </div>
         <div id="delete" class="reveal-modal small" data-reveal aria-labelledby="delete" aria-hidden="true" role="dialog">
-            <i class="fa fa-question-circle fa-2x" style="color: #B20000;"><i style="font-style: normal; font-family: sans-serif"> Account Delete</i></i>
-            <p>Do you really want to delete your account ?</p>
-            <a href="#dismiss" class="button" onclick="$('#delete').foundation('reveal', 'close')">Dismiss</a>
-            <a href=<?= '"/delete/?token='.$token.'"' ?> class="alert button">Confirm</a>
+            <h3><i class="fa fa-trash-o fa-2x" style="color: #B20000;"></i>  Account Delete</h3>
+            <hr>
+            <span>Do you really want to delete your account ?</span>
+            <br/><br/>
+            <a href="#dismiss" class="button" onclick="$('#delete').foundation('reveal', 'close')" style="float:right">Dismiss</a>
+            <a href=<?= '"/delete/?token='.$token.'"' ?> class="alert button" style="float:right">Confirm</a>
             <a class="close-reveal-modal" aria-label="Close">&#215;</a>
         </div>
         <div id="response" class="reveal-modal" data-reveal aria-labelledby="response" aria-hidden="true" role="dialog">
             <h3><i class="fa fa-envelope-open-o fa-2x" style="color: #B20000;"></i>   Message</h3>
-            <span><br /><?= $message ?></span>
+            <hr>
+            <span><?= $message ?></span>
             <a class="close-reveal-modal" aria-label="Close">&#215;</a>
         </div>
         <div id="home" class="reveal-modal" data-reveal aria-labelledby="home" aria-hidden="true" role="dialog">
-            <h3><i class="fa fa-plug" aria-hidden="true"></i> Intro</h3>
+            <h2><i class="fa fa-map-o" aria-hidden="true" style="color: #B20000;"></i> README.md</h2>
+            <hr>
+            <h4><i class="fa fa-plug" aria-hidden="true"></i> Intro</h4>
             loadwave changes the way you interact with videos... “loadwave” is a video sharing webapp based on youtube with the possibility to make comments related to a specific moment in a video. Every comment is associated to the second you have sent (Timed Comments). By this way, comments play the role of a descriptor for video frames.
             <br/><br/>
-            <h3><i class="fa fa-magic" aria-hidden="true"></i> Usage</h3>
+            <h4><i class="fa fa-magic" aria-hidden="true"></i> Usage</h4>
             First thing you have to do is to sign up, you can use facebook, twitter, google authentification system to save time. Then you can access to the home page where you find a dashboard and the top commented videos, you choose one of those videos. Or you can choose a video from youtube website and modify the url from:
             <a href="https://www.youtube.com/watch?v=3AtDnEC4zak">https://www.youtube.com/watch?v=3AtDnEC4zak</a>
             To

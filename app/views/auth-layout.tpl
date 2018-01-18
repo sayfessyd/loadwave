@@ -30,7 +30,8 @@
         </header>
         <div id="response" class="reveal-modal" data-reveal aria-labelledby="response" aria-hidden="true" role="dialog">
             <h3><i class="fa fa-envelope-open-o fa-2x" style="color: #B20000;"></i>   Message</h3>
-            <span><br /><?= $message ?></span>
+            <hr>
+            <span><?= $message ?></span>
             <a class="close-reveal-modal" aria-label="Close">&#215;</a>
         </div>
         <div class="authHomePage">
