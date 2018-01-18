@@ -1,2 +1,2 @@
-php-packages/*
+vendor/*
 *.log
