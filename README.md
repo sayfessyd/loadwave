@@ -4,7 +4,7 @@ alt="IMAGE ALT TEXT HERE" width="640" height="360" border="0" /></a>
 
 
 ## Intro
-**loadwave** changes the way you interact with videos... :heart_eyes: “loadwave” is a simple web application, it’s a kind of video sharing website based on youtube that implements a new feature, it is the possibility to make comments related to a specific moment in a video, every comment is associated to the second you have sent (**Timed Comments**) :watch:. By this way, comments play the role of a descriptor :memo: for video frames.
+**loadwave** changes the way you interact with videos...“loadwave” is a video sharing webapp based on youtube with the possibility to make comments related to a specific moment in a video. Every comment is associated to the second you have sent (**Timed Comments**) :watch:. By this way, comments play the role of a descriptor :memo: for video frames.
 
 ## Features
 + **Responsive Design** Fully responsive :iphone: and will scale to the size of any device using Foundation 5.
