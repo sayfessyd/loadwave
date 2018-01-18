@@ -29,14 +29,12 @@
             </div>
         </header>
         <div id="response" class="reveal-modal" data-reveal aria-labelledby="response" aria-hidden="true" role="dialog">
-            <i class="fa fa-file-text-o fa-2x" style="color: #B20000"><i style="font-style: normal; font-family: sans-serif"> Response</i></i>
-            <p><br /><?= $message ?></p>
+            <h3><i class="fa fa-envelope-open-o fa-2x" style="color: #B20000;"></i>   Message</h3>
+            <span><br /><?= $message ?></span>
             <a class="close-reveal-modal" aria-label="Close">&#215;</a>
         </div>
         <div class="authHomePage">
             <?= $auth ?>
-            <br/>
-            <small style="float: right">&copy; 2015-2018 loadwave.com</small>
         </div>
         <a href="#top" id="top"><i class="fa fa-arrow-circle-up fa-2x faa-vertical animated"></i></a>
         <!-- libraries -->

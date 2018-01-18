@@ -110,8 +110,8 @@
             <a class="close-reveal-modal" aria-label="Close">&#215;</a>
         </div>
         <div id="response" class="reveal-modal" data-reveal aria-labelledby="response" aria-hidden="true" role="dialog">
-            <i class="fa fa-file-text-o fa-2x" style="color: #B20000;"><i style="font-style: normal; font-family: sans-serif"> Response</i></i>
-            <p><br /><?= $message ?></p>
+            <h3><i class="fa fa-envelope-open-o fa-2x" style="color: #B20000;"></i>   Message</h3>
+            <span><br /><?= $message ?></span>
             <a class="close-reveal-modal" aria-label="Close">&#215;</a>
         </div>
         <div id="home" class="reveal-modal" data-reveal aria-labelledby="home" aria-hidden="true" role="dialog">
@@ -124,6 +124,10 @@
             To
             <a href="https://loadwave.herokuapp.com/watch?v=3AtDnEC4zak">https://loadwave.herokuapp.com/watch?v=3AtDnEC4zak</a>
             <br/><br/>
+            <a href=<?= Url::getBase().'/public/terms_of_service.html"' ?> style="float: right">Terms Of Service</a>
+            <br/>
+            <a href=<?= Url::getBase().'/public/privacy_policy.html"' ?> style="float: right">Privacy Policy</a>
+            <br/>
             <small style="float: right">&copy; 2015-2018 loadwave.com</small>
             <a class="close-reveal-modal" aria-label="Close">&#215;</a>
         </div>
