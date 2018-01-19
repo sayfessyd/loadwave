@@ -118,7 +118,7 @@
             <a class="close-reveal-modal" aria-label="Close">&#215;</a>
         </div>
         <div id="home" class="reveal-modal" data-reveal aria-labelledby="home" aria-hidden="true" role="dialog">
-            <h2><i class="fa fa-map-o" aria-hidden="true" style="color: #B20000;"></i> README.md</h2>
+            <h2>README.md</h2>
             <hr>
             <h4><i class="fa fa-plug" aria-hidden="true"></i> Intro</h4>
             loadwave changes the way you interact with videos... “loadwave” is a video sharing webapp based on youtube with the possibility to make comments related to a specific moment in a video. Every comment is associated to the second you have sent (Timed Comments). By this way, comments play the role of a descriptor for video frames.
