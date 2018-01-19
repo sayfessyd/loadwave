@@ -18,6 +18,10 @@
 ## Intro
 **loadwave** changes the way you interact with videos...“loadwave” is a video sharing webapp based on youtube with the possibility to make comments related to a specific moment in a video. Every comment is associated to the second you have sent (**Timed Comments**) . By this way, comments play the role of a descriptor for video frames.
 
+
+## Usage
+First thing you have to do is to sign up, you can use facebook, twitter, google authentification system to save time. Than you can access to the home page where you find a dashboard and the top commented videos, you choose one of those videos. Or you can choose a video from youtube website and modify the url from: http://www.youtube.com/watch?v=U3_d2RH9bqk To http://loadwave.localhost/watch?v=U3_d2RH9bqk
+
 ## Features
 + **Responsive Design** Fully responsive :iphone: and will scale to the size of any device using Foundation 5.
 + **Auth System** Complete Membership System  :family: With Social Login and Register using HybridAuth 2.9.
@@ -26,16 +30,13 @@
 + **Flexibility** Easily change Refresh Time :eyeglasses:, Max Comments :speech_balloon:, Video Size :computer: ... 
 + **Rating System** Rate a comment, like it ! :sparkling_heart:.
 
-
-## Usage
-First thing you have to do is to sign up, you can use facebook, twitter, google authentification system to save time. Than you can access to the home page where you find a dashboard and the top commented videos, you choose one of those videos. Or you can choose a video from youtube website and modify the url from: http://www.youtube.com/watch?v=U3_d2RH9bqk To http://loadwave.localhost/watch?v=U3_d2RH9bqk
-
 ## Install
 
 ### Composer
 <pre>
 composer require sayfessyd/loadwave
 </pre>
+
 
 ## Requirements
 + PHP 5.3.7 or Higher
