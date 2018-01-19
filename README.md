@@ -25,14 +25,6 @@
 ## Usage
 First thing you have to do is to sign up, you can use facebook, twitter, google authentification system to save time. Than you can access to the home page where you find a dashboard and the top commented videos, you choose one of those videos. Or you can choose a video from youtube website and modify the url from: http://www.youtube.com/watch?v=U3_d2RH9bqk To http://loadwave.localhost/watch?v=U3_d2RH9bqk
 
-## Features
-+ **Responsive Design** Fully responsive :iphone: and will scale to the size of any device using Foundation 5.
-+ **Auth System** Complete Membership System  :family: With Social Login and Register using HybridAuth 2.9.
-+ **Search** Powerful search :mag_right: that will find nearly any comment.
-+ **Appearence** Easily change the look  :necktie: of loadwave.
-+ **Flexibility** Easily change Refresh Time :eyeglasses:, Max Comments :speech_balloon:, Video Size :computer: ... 
-+ **Rating System** Rate a comment, like it ! :sparkling_heart:.
-
 ## Install
 
 ### Composer
@@ -40,6 +32,14 @@ First thing you have to do is to sign up, you can use facebook, twitter, google 
 composer require sayfessyd/loadwave
 </pre>
 
+
+## Features
++ **Responsive Design** Fully responsive :iphone: and will scale to the size of any device using Foundation 5.
++ **Auth System** Complete Membership System  :family: With Social Login and Register using HybridAuth 2.9.
++ **Search** Powerful search :mag_right: that will find nearly any comment.
++ **Appearence** Easily change the look  :necktie: of loadwave.
++ **Flexibility** Easily change Refresh Time :eyeglasses:, Max Comments :speech_balloon:, Video Size :computer: ... 
++ **Rating System** Rate a comment, like it ! :sparkling_heart:.
 
 ## Requirements
 + PHP 5.3.7 or Higher
