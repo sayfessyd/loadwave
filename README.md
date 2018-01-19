@@ -6,14 +6,17 @@
 </p>
 
 <p align="center">
-    <a href="https://travis-ci.org/tailwindcss/tailwindcss"><img src="https://img.shields.io/travis/tailwindcss/tailwindcss/master.svg" alt="Build Status"></a>
-    <a href="https://www.npmjs.com/package/tailwindcss"><img src="https://img.shields.io/npm/dt/tailwindcss.svg" alt="Total Downloads"></a>
-    <a href="https://github.com/tailwindcss/tailwindcss/releases"><img src="https://img.shields.io/npm/v/tailwindcss.svg" alt="Latest Release"></a>
-    <a href="https://github.com/tailwindcss/tailwindcss/blob/master/LICENSE"><img src="https://img.shields.io/npm/l/tailwindcss.svg" alt="License"></a>
+    <a href="https://travis-ci.org/sayfessyd/loadwave"><img src="https://img.shields.io/travis/sayfessyd/loadwave.svg?style=for-the-badge" alt="Build Status"></a>
+    <a href="https://packagist.org/packages/sayfessyd/loadwave"><img src="https://img.shields.io/packagist/dt/sayfessyd/loadwave.svg?style=for-the-badge" alt="Total Downloads"></a>
+    <a href="https://github.com/sayfessyd/loadwave/blob/master/LICENSE"><img src="https://img.shields.io/github/license/sayfessyd/loadwave.svg?style=for-the-badge" alt="License"></a>
 </p>
 
 ------
-
+<div align="center">
+    <img src="https://raw.githubusercontent.com/sayfessyd/loadwave/master/public/screenshots/auth.jpg" width="150">
+    <img src="https://raw.githubusercontent.com/sayfessyd/loadwave/master/public/screenshots/home.jpg" width="150">
+    <img src="https://raw.githubusercontent.com/sayfessyd/loadwave/master/public/screenshots/app.jpg" width="150">
+</div>
 
 ## Intro
 **loadwave** changes the way you interact with videos...“loadwave” is a video sharing webapp based on youtube with the possibility to make comments related to a specific moment in a video. Every comment is associated to the second you have sent (**Timed Comments**) . By this way, comments play the role of a descriptor for video frames.
