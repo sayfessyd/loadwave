@@ -2,7 +2,8 @@
 
 <p align="center">
     <a href="https://tailwindcss.com/" target="_blank"><img width="100" src="https://raw.githubusercontent.com/sayfessyd/loadwave/master/public/img/loadwave3.png"></a><br>
-    A video sharing webapp with the possibility to make <b>Timed Comments</b>.
+    A video sharing webapp with the possibility to make <b>Timed Comments</b>.<br>
+    <a href="https://loadwave.herokuapp.com/">Live app on Heroku</a>
 </p>
 
 <p align="center">
