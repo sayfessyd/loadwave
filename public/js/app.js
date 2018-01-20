@@ -33,7 +33,7 @@ $(document).ajaxStop(function() {
             audio = document.getElementById("audiotag1");
             random = Math.floor((Math.random() * 9) + 1);
             audio.src = base + "audio/playful_reveal_melodic_0" + random + ".mp3";
-            audio.volume = 0.4;
+            audio.volume = 0.5;
             audio.play();
             $("#sess-count i").text(" " + (parseInt($("#sess-count i").text(), 10) + 1));
             nb = like.children();
@@ -152,6 +152,7 @@ function sendComment() {
     seconds = time - (minutes * 60);
     timeFormat = hours + ":" + minutes + ":" + seconds;
     content = document.getElementById("content").value;
+    document.getElementById("content").value = "";
     if (content.length > 140 || content.length <= 0) {
         $("#error").foundation("reveal", "open");
         return
@@ -183,7 +184,7 @@ function sendComment() {
             audio = document.getElementById("audiotag2");
             random = Math.floor((Math.random() * 4) + 1);
             audio.src = base + "audio/create_0" + random + ".mp3";
-            audio.volume = 0.4;
+            audio.volume = 0.5;
             audio.play()
         }
     })

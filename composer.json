@@ -1,12 +1,13 @@
 {
   "name": "sayfessyd/loadwave",
-  "description": "loadwave is a simple web application, it’s a kind of video sharing website that implements a new feature, it is the possibility to make comments related to a specific moment in a video, every comment is associated to the second you have sent (Timed Comments). By this way, comments play the role of a descriptor for video frames.",
+  "description": "loadwave is a video sharing webapp based on youtube with the possibility to make comments related to a specific moment in a video. Every comment is associated to the second you have sent (Timed Comments). By this way, comments play the role of a descriptor for video frames.",
   "authors": [
     {
       "name": "Sayf Essyd",
       "email": "mail.sayf@yahoo.com"
     }
   ],
+  "version": "v1.0.0",
   "config": {
     "vendor-dir": "vendor"
   },

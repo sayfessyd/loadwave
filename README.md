@@ -20,7 +20,7 @@
 </div>
 
 ## Intro
-**loadwave** changes the way you interact with videos...“loadwave” is a video sharing webapp based on youtube with the possibility to make comments related to a specific moment in a video. Every comment is associated to the second you have sent (**Timed Comments**) . By this way, comments play the role of a descriptor for video frames.
+**loadwave** changes the way you interact with videos... “loadwave” is a video sharing webapp based on youtube with the possibility to make comments related to a specific moment in a video. Every comment is associated to the second you have sent (**Timed Comments**). By this way, comments play the role of a descriptor for video frames.
 
 
 ## Usage
