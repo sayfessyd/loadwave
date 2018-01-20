@@ -35,7 +35,7 @@ composer require sayfessyd/loadwave
 
 ### Firefox Marketplace
 <pre>
-<img src="https://marketplace.cdn.mozilla.net/media/img/mkt/badges/firefox-marketplace_badge-black_172_60.png?b=14b1a44-5911d8ac">
+<img src="https://marketplace.cdn.mozilla.net/media/img/mkt/badges/firefox-marketplace_badge-grey_172_60.png?b=14b1a44-5911d8ac">
 </pre>
 
 ### Chrome Web Store
