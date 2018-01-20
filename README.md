@@ -33,12 +33,17 @@ First thing you have to do is to sign up, you can use facebook, twitter, google 
 composer require sayfessyd/loadwave
 </pre>
 
+### Chrome Web Store
+<pre>
+<img src="https://developer.chrome.com/webstore/images/ChromeWebStore_Badge_v2_206x58.png">
+</pre>
+
 ## Features
 + **Responsive Design** Fully responsive :iphone: and will scale to the size of any device using Foundation 5.
 + **Auth System** Complete Membership System  :family: With Social Login and Register using HybridAuth 2.9.
 + **Search** Powerful search :mag_right: that will find nearly any comment.
 + **Appearence** Easily change the look  :necktie: of loadwave.
-+ **Flexibility** Easily change Refresh Time :eyeglasses:, Max Comments :speech_balloon:, Video Size :computer: ... 
++ **Flexibility** Easily change Refresh Time :eyeglasses:, Max Comments :speech_balloon:, Video Size :computer: ...
 + **Rating System** Rate a comment, like it ! :sparkling_heart:.
 
 ## Requirements
