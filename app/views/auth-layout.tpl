@@ -19,6 +19,7 @@
             <script type="text/javascript" src=<?= Url::asset("lib/jquery.min.js") ?> ></script>
             <!-- application -->
             <script type="text/javascript" src=<?= Url::asset("script.js") ?> ></script>
+            <script type="text/javascript" src=<?= Url::asset("install.js") ?> ></script>
     </head>
     <body>
         <header>
@@ -36,6 +37,8 @@
         </div>
         <div class="authHomePage">
             <?= $auth ?>
+            <br>
+            <a href="javascript:install()">Install Hosted App</a>
         </div>
         <a href="#top" id="top"><i class="fa fa-arrow-circle-up fa-2x faa-vertical animated"></i></a>
         <!-- libraries -->
