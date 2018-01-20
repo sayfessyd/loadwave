@@ -1,5 +1,3 @@
-AddType application/x-web-app-manifest+json .webapp
-
 RewriteEngine On
 
 #RewriteCond %{HTTP_HOST} !^www\.
