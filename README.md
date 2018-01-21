@@ -8,7 +8,7 @@
 
 <p align="center">
     <a href="https://packagist.org/packages/sayfessyd/loadwave"><img src="https://img.shields.io/packagist/dt/sayfessyd/loadwave.svg" alt="Total Downloads"></a>
-    <a><img src=" https://img.shields.io/packagist/php-v/sayfessyd/loadwave.svg" alt="PHP Version"></a>
+    <a><img src="https://img.shields.io/packagist/php-v/sayfessyd/loadwave.svg"></a>
     <a href="https://github.com/sayfessyd/loadwave/blob/master/LICENSE"><img src="https://img.shields.io/github/license/sayfessyd/loadwave.svg" alt="License"></a>
 </p>
 
