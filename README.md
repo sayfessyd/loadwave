@@ -12,12 +12,13 @@
     <a href="https://github.com/sayfessyd/loadwave/blob/master/LICENSE"><img src="https://img.shields.io/github/license/sayfessyd/loadwave.svg" alt="License"></a>
 </p>
 
-------
 <div align="center">
     <img src="https://raw.githubusercontent.com/sayfessyd/loadwave/master/public/screenshots/auth.jpg" width="150">
     <img src="https://raw.githubusercontent.com/sayfessyd/loadwave/master/public/screenshots/home.jpg" width="150">
     <img src="https://raw.githubusercontent.com/sayfessyd/loadwave/master/public/screenshots/app.jpg" width="150">
 </div>
+
+------
 
 ## Intro
 **loadwave** changes the way you interact with videos... “loadwave” is a video sharing webapp based on youtube with the possibility to make comments related to a specific moment in a video. Every comment is associated to the second you have sent (**Timed Comments**). By this way, comments play the role of a descriptor for video frames.
