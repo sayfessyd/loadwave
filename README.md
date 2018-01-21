@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    <a href="https://travis-ci.org/sayfessyd/loadwave"><img src="https://img.shields.io/travis/sayfessyd/loadwave.svg?style=for-the-badge" alt="Build Status"></a>
+    <a href="https://travis-ci.org/sayfessyd/loadwave"><img src=" 	https://img.shields.io/packagist/php-v/sayfessyd/loadwave.svg?style=for-the-badge" alt="Build Status"></a>
     <a href="https://packagist.org/packages/sayfessyd/loadwave"><img src="https://img.shields.io/packagist/dt/sayfessyd/loadwave.svg?style=for-the-badge" alt="Total Downloads"></a>
     <a href="https://github.com/sayfessyd/loadwave/blob/master/LICENSE"><img src="https://img.shields.io/github/license/sayfessyd/loadwave.svg?style=for-the-badge" alt="License"></a>
 </p>
