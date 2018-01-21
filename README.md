@@ -1,15 +1,15 @@
 # loadwave
 
 <p align="center">
-    <a href="https://tailwindcss.com/" target="_blank"><img width="100" src="https://raw.githubusercontent.com/sayfessyd/loadwave/master/public/img/loadwave3.png"></a><br>
+    <img width="100" src="https://raw.githubusercontent.com/sayfessyd/loadwave/master/public/img/loadwave3.png"><br>
     A video sharing webapp with the possibility to make <b>Timed Comments</b>.<br>
     <a href="https://loadwave.herokuapp.com/">Live app on Heroku</a>
 </p>
 
 <p align="center">
-    <a href="https://packagist.org/packages/sayfessyd/loadwave"><img src="https://img.shields.io/packagist/dt/sayfessyd/loadwave.svg?style=for-the-badge" alt="Total Downloads"></a>
-    <a href="https://travis-ci.org/sayfessyd/loadwave"><img src=" https://img.shields.io/packagist/php-v/sayfessyd/loadwave.svg?style=for-the-badge" alt="PHP Version"></a>
-    <a href="https://github.com/sayfessyd/loadwave/blob/master/LICENSE"><img src="https://img.shields.io/github/license/sayfessyd/loadwave.svg?style=for-the-badge" alt="License"></a>
+    <a href="https://packagist.org/packages/sayfessyd/loadwave"><img src="https://img.shields.io/packagist/dt/sayfessyd/loadwave.svg" alt="Total Downloads"></a>
+    <a><img src=" https://img.shields.io/packagist/php-v/sayfessyd/loadwave.svg" alt="PHP Version"></a>
+    <a href="https://github.com/sayfessyd/loadwave/blob/master/LICENSE"><img src="https://img.shields.io/github/license/sayfessyd/loadwave.svg" alt="License"></a>
 </p>
 
 ------
