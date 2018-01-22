@@ -51,7 +51,7 @@ composer require sayfessyd/loadwave
 + **Rating System** Rate a comment, like it ! :sparkling_heart:.
 
 ## Requirements
-+ PHP 5.3.7 or Higher
++ PHP 5.6.4 or Higher
 + MCrypt PHP Extension
 + PDO Extension (enabled by default)
 + CURL Library Installed
