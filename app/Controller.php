@@ -98,8 +98,6 @@ class Controller{
 	static function showComments($time, $offset, $limit)
 	{
 		$model = new Model;
-		echo $_SESSION['v'];
-		exit;
 		$values = $model->getComments($_SESSION['v'], $time, $offset, $limit, $_SESSION['user_id']);
 		echo json_encode($values);
 	}
