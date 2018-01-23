@@ -103,6 +103,8 @@ class Controller{
 	}
 	static function writeComment($video_time, $seconds, $content)
 	{
+		echo $_SESSION['v'];
+		exit;
 		$created_at = date("Y-m-d H:i:s");
 		$values = array('video_id' => $_SESSION['v'], 'content' => $content, 'likes' => 0, 'created_at' => $created_at, 'video_time' => $video_time, 'seconds' => $seconds, 'username' => $_SESSION['username']);
 		$model = new Model;
