@@ -61,7 +61,7 @@
                 <a id="arrsx" class="arr" href="javascript:changeOp(-1)"><i class="fa fa-caret-left  fa-2x"></i></a>
                 <i id="opacity" class="fa fa-2x" style="font-style: normal; font-family: sans-serif">0.0</i>
                 <a id="arrsxx" class="arr" href="javascript:changeOp(1)"><i class="fa fa-caret-right  fa-2x">  </i></a>
-                <h3><br /> Refresh Time <i class="fa fa-refresh ">  </i></h3><small>This option take effect after replaying video.</small>
+                <h3><br /> Refresh Time <i class="fa fa-refresh ">  </i></h3><small>This option takes effect after replaying video.</small>
                 <input type="number" id="offset" min="3" max="30" style="width: 50%" ng-model="offset" placeholder="15">
                 <h3>Max Comments <i class="fa fa-comment-o">  </i></h3>
                 <input type="number" id="limit" min="1" max="40" style="width: 50%" ng-model="limit" placeholder="20">
