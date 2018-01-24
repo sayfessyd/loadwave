@@ -35,15 +35,15 @@
 ## Usage
 First thing you have to do is to sign up, you can use facebook, twitter, google authentification system to save time. Than you can access to the home page where you find a dashboard and the top commented videos, you choose one of those videos. Or you can choose a video from youtube website and modify the url from: http://www.youtube.com/watch?v=U3_d2RH9bqk To https://loadwave.herokuapp.com/watch?v=U3_d2RH9bqk
 
+## Collaborating
+At this moment, the loadwave app runs under a basic heroku web server with the simplest features and needs much more investment to improve it. For those who want to collaborate, please send your requests by email to specialappdev@gmail.com.
+
 ## Install
 
 ### Composer
 <pre>
 composer require sayfessyd/loadwave
 </pre>
-
-## Collaborating
-At this moment, the loadwave app runs under a basic heroku web server with the simplest features and needs much more investment to improve it. For those who want to collaborate, please send your requests by email to specialappdev@gmail.com.
 
 ## Demo
 #### URL
