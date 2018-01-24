@@ -21,13 +21,13 @@ class Model
     public function getVideos($search = null)
     {
         if ($search == null) {
-            $ask_for = "SELECT COUNT(*) AS theCount, video_id FROM comments GROUP BY video_id ORDER BY theCount DESC LIMIT 10;";
+            $ask_for = "SELECT COUNT(*) AS theCount, video_id FROM comments GROUP BY video_id ORDER BY theCount DESC LIMIT 50;";
             $sql = $this->connection->prepare($ask_for);
             $sql->execute();
             return $sql->fetchAll();
         } else {
             $ask_for = "SELECT video_id, video_time, seconds, GROUP_CONCAT(content,'&likes:',likes SEPARATOR '&ldwav,')
-			 				AS comments FROM comments WHERE content LIKE :search GROUP BY video_id, video_time ORDER BY likes DESC LIMIT 10;";
+			 				AS comments FROM comments WHERE content LIKE :search GROUP BY video_id, video_time ORDER BY likes DESC LIMIT 50;";
             $values = array("search" => "%{$search}%");
             $sql = $this->connection->prepare($ask_for);
             $sql->execute($values);
