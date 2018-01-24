@@ -45,7 +45,7 @@ class Model
 					WHERE a.video_id = ".$id." AND a.video_time < :compare AND (a.video_time > :time OR a.video_time = :time) ORDER BY a.likes DESC, a.created_at DESC LIMIT :limit;";
         $sql = $this->connection->prepare($ask_for);
         $sql->bindValue(":user_id", $user_id, \PDO::PARAM_INT);
-        $sql->bindValue(":id", $id, \PDO::PARAM_INT);
+        //$sql->bindValue(":id", $id, \PDO::PARAM_INT);
         $sql->bindValue(":compare", $compare, \PDO::PARAM_STR);
         $sql->bindValue(":time", $time, \PDO::PARAM_STR);
         $sql->bindValue(":limit", $limit, \PDO::PARAM_INT);
