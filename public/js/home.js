@@ -1,5 +1,3 @@
-var browser_key = "AIzaSyAD3eZcTp8Tp_7ou5cKrmcZpLopbgK9RwY";
-
 $(document).ready(function() {
     if (getCookie("backg") != "") {
         bg = getCookie("backg");

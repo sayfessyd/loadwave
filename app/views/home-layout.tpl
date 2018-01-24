@@ -22,6 +22,7 @@
             <script type="text/javascript" src=<?= Url::asset("lib/angular-animate.min.js") ?> ></script>
             <!-- application -->
             <script type="text/javascript">
+                var browser_key = <?= '"'.getenv('YOUTUBE_BROWSER_KEY').'"' ?>;
                 var token = <?= '"'.$token.'"' ?>;
                 var base = <?= Url::asset() ?>;
                 var app = angular.module("loadwave", ['ngAnimate']);

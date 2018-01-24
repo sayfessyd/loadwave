@@ -23,7 +23,7 @@ class Library{
 
     static function checkUrl($id)
     {
-        $browser_key = "AIzaSyAD3eZcTp8Tp_7ou5cKrmcZpLopbgK9RwY";
+        $browser_key = getenv('YOUTUBE_BROWSER_KEY');
         $url = "https://www.googleapis.com/youtube/v3/videos?part=id&id=".$id."&key=".$browser_key;
         $ch = curl_init();
         curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);

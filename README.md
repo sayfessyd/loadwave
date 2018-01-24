@@ -70,7 +70,7 @@ All comments you will find out initially are extracted from youtube server and i
 
 ## API's
 + **YouTube API Key**
-Change browser_key variable in Library.php and home.js files.
+Change browser_key variable in Library.php and home-layout.tpl files.
 
 + **Facebook Twitter Google API Key**
 Add your keys in HybridAuth config file. For more information https://hybridauth.github.io/documentation.html

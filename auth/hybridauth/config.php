@@ -27,16 +27,16 @@ return array(
         ),
         "Google" => array(
             "enabled" => true,
-            "keys" => array("id" => "819162371390-8i9f03os1ktbmalellm1rfd0kivba9fp.apps.googleusercontent.com", "secret" => "bpfCs8U6MaqvJb0DhHaU6Xkr"),
+            "keys" => array("id" => getenv('OAUTH_GOOGLE_ID'), "secret" => getenv('OAUTH_GOOGLE_SECRET')),
         ),
         "Facebook" => array(
             "enabled" => true,
-            "keys" => array("id" => "400173057109815", "secret" => "7e4aca84b7afdd3341984908b95070ad"),
+            "keys" => array("id" => getenv('OAUTH_FACEBOOK_ID'), "secret" => getenv('OAUTH_FACEBOOK_SECRET')),
             "trustForwarded" => false,
         ),
         "Twitter" => array(
             "enabled" => true,
-            "keys" => array("key" => "vxyziIKPFRiJbpyg4EAFHEioc", "secret" => "IF9YQZz9OsBsPXXOQcH7rgjkhrkrs45xXXAQ79r36Yjctwt5cv"),
+            "keys" => array("key" => getenv('OAUTH_TWITTER_KEY'), "secret" => getenv('OAUTH_TWITTER_SECRET')),
             "includeEmail" => false,
         ),
         // windows live
