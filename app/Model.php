@@ -46,8 +46,8 @@ class Model
         $sql = $this->connection->prepare($ask_for);
         $sql->bindValue(":user_id", $user_id, \PDO::PARAM_INT);
         $sql->bindValue(":id", $id, \PDO::PARAM_INT);
-        $sql->bindValue(":compare", $compare, \PDO::PARAM_STR);
-        $sql->bindValue(":time", $time, \PDO::PARAM_STR);
+        //$sql->bindValue(":compare", $compare, \PDO::PARAM_STR);
+        //$sql->bindValue(":time", $time, \PDO::PARAM_STR);
         $sql->bindValue(":limit", $limit, \PDO::PARAM_INT);
         $sql->execute();
         return $sql->fetchAll();
