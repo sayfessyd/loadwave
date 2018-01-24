@@ -608,6 +608,208 @@ INSERT INTO comments(id, video_id, video_time, seconds, content, created_at, lik
 
 INSERT INTO comments(id, video_id, video_time, seconds, content, created_at, likes, username) VALUES 
 
+('301','dT2owtxkU8k','00:00:00','0','viadagem','2016-01-06 21:03:00','0','demo'),
+
+('302','dT2owtxkU8k','00:00:02','2','Alguém BR? :-D','2016-01-06 21:03:00','0','demo'),
+
+('303','dT2owtxkU8k','00:00:04','4','😍😍😍','2016-01-06 21:03:00','0','demo'),
+
+('304','dT2owtxkU8k','00:00:06','6','No entiendo ingles pero me gusta','2016-01-06 21:03:00','0','demo'),
+
+('305','dT2owtxkU8k','00:00:08','8','Desde que escuché esta canción en “The Good Doctor” empecé a oírla en todos lados 😅 y me encanta :D','2016-01-06 21:03:00','0','demo'),
+
+('306','dT2owtxkU8k','00:00:10','10','Lindo','2016-01-06 21:03:00','0','demo'),
+
+('307','dT2owtxkU8k','00:00:12','12',':-D:-!','2016-01-06 21:03:00','0','demo'),
+
+('308','dT2owtxkU8k','00:00:14','14','Lino você chalé medes','2016-01-06 21:03:00','0','demo'),
+
+('309','dT2owtxkU8k','00:00:16','16','El mejor😍','2016-01-06 21:03:00','0','demo'),
+
+('310','dT2owtxkU8k','00:00:18','18','😎talented','2016-01-06 21:03:00','0','demo'),
+
+('311','dT2owtxkU8k','00:00:20','20','ジャパン🇯🇵','2016-01-06 21:03:00','0','demo'),
+
+('312','dT2owtxkU8k','00:00:22','22','Hello','2016-01-06 21:03:00','0','demo'),
+
+('313','dT2owtxkU8k','00:00:24','24','Y love you shanw beijos do brasil','2016-01-06 21:03:00','0','demo'),
+
+('314','dT2owtxkU8k','00:00:26','26','Que boni  la canción','2016-01-06 21:03:00','0','demo'),
+
+('315','dT2owtxkU8k','00:00:28','28','Essas meninas exageram , meu deus ,mal conhece o cara é já fala que ama','2016-01-06 21:03:00','0','demo'),
+
+('316','dT2owtxkU8k','00:00:30','30','Achei forçado , Mariana quem fala tá ,mais é sério vc deveria ser mais natural , pense isso como uma crítica construtiva.','2016-01-06 21:03:00','0','demo'),
+
+('317','dT2owtxkU8k','00:00:32','32','Aww 😍😍','2016-01-06 21:03:00','0','demo'),
+
+('318','dT2owtxkU8k','00:00:34','34','its very nice i Love you 💓 💋 very much','2016-01-06 21:03:00','0','demo'),
+
+('319','dT2owtxkU8k','00:00:36','36','Cz dostałeś nagrodę za taką muzę!!!!!!!:):):):);););)!!!!!!','2016-01-06 21:03:00','0','demo'),
+
+('320','dT2owtxkU8k','00:00:38','38','Adoro essa musica dele','2016-01-06 21:03:00','0','demo'),
+
+('321','dT2owtxkU8k','00:00:40','40','Super muza!!!!!!!!!!!!!!!:):):):)','2016-01-06 21:03:00','0','demo'),
+
+('322','dT2owtxkU8k','00:00:42','42','THERES NOTHING HOLDING ME BACK','2016-01-06 21:03:00','0','demo'),
+
+('323','dT2owtxkU8k','00:00:44','44','Legend.','2016-01-06 21:03:00','1','demo'),
+
+('324','dT2owtxkU8k','00:00:46','46','❤❤❤❤❤❤','2016-01-06 21:03:00','0','demo'),
+
+('325','dT2owtxkU8k','00:00:48','48','Shawn😍','2016-01-06 21:03:00','0','demo'),
+
+('326','dT2owtxkU8k','00:00:50','50','*Shawn🙋❤*','2016-01-06 21:03:00','0','demo'),
+
+('327','dT2owtxkU8k','00:00:52','52','i love shawn mendes','2016-01-06 21:03:00','0','demo'),
+
+('328','dT2owtxkU8k','00:00:54','54','je trouve quil est trop beaux Joy TV','2016-01-06 21:03:00','0','demo'),
+
+('329','dT2owtxkU8k','00:00:56','56','Shawnn I love you cat','2016-01-06 21:03:00','0','demo'),
+
+('330','dT2owtxkU8k','00:00:58','58','Cat','2016-01-06 21:03:00','0','demo'),
+
+('331','dT2owtxkU8k','00:01:00','60','i love this song','2016-01-06 21:03:00','0','demo'),
+
+('332','dT2owtxkU8k','00:01:02','62','¡no me puede gustar más esta canción!💥','2016-01-06 21:03:00','0','demo'),
+
+('333','dT2owtxkU8k','00:01:04','64','I think I broke my replay button','2016-01-06 21:03:00','0','demo'),
+
+('334','dT2owtxkU8k','00:01:06','66','I came here after watching Yedams cover on this 😂. This song is sooo good I probably broke my reply button','2016-01-06 21:03:00','0','demo'),
+
+('335','dT2owtxkU8k','00:01:08','68','Alguém  2018 ?','2016-01-06 21:03:00','0','demo'),
+
+('336','dT2owtxkU8k','00:01:10','70','💎💎💎','2016-01-06 21:03:00','0','demo'),
+
+('337','dT2owtxkU8k','00:01:12','72','HERE YOU GO MY FAV SONG YEYY','2016-01-06 21:03:00','0','demo'),
+
+('338','dT2owtxkU8k','00:01:14','74','Shawn','2016-01-06 21:03:00','0','demo'),
+
+('339','dT2owtxkU8k','00:01:16','76','Wooowww I love you Shawn 😍','2016-01-06 21:03:00','1','demo'),
+
+('340','dT2owtxkU8k','00:01:18','78','Love it','2016-01-06 21:03:00','0','demo'),
+
+('341','dT2owtxkU8k','00:01:20','80','😍','2016-01-06 21:03:00','0','demo'),
+
+('342','dT2owtxkU8k','00:01:22','82','Theres nothing holding me back to smash the like buttonI just want likes','2016-01-06 21:03:00','1','demo'),
+
+('343','dT2owtxkU8k','00:01:24','84','Love music','2016-01-06 21:03:00','0','demo'),
+
+('344','dT2owtxkU8k','00:01:26','86','Omfg amazing voice I love him','2016-01-06 21:03:00','1','demo'),
+
+('345','dT2owtxkU8k','00:01:28','88','Nice music','2016-01-06 21:03:00','1','demo'),
+
+('346','dT2owtxkU8k','00:01:30','90','My Shawn Mendes😄😆😊😉','2016-01-06 21:03:00','0','demo'),
+
+('347','dT2owtxkU8k','00:01:32','92','really really this song is very good and crazy','2016-01-06 21:03:00','0','demo'),
+
+('348','dT2owtxkU8k','00:01:34','94','ฟังแต่เพลงมาตลอด ไม่เคยดูเอ็มวีเลย พอมาดูเท่านั้นล่ะ หมั่นไส้เลย แม่งงงงงงงงงงง','2016-01-06 21:03:00','0','demo'),
+
+('349','dT2owtxkU8k','00:01:36','96','ฟังแต่เพลงมาตลอด ไม่เคยดูเอ็มวีเลย พอมาดูเท่านั้นล่ะ หมั่นไส้เลย แม่งงงงงงงงงงง','2016-01-06 21:03:00','0','demo'),
+
+('350','dT2owtxkU8k','00:01:38','98','2018?❤️','2016-01-06 21:03:00','0','demo'),
+
+('351','dT2owtxkU8k','00:01:40','100','Shawn Mendes México te amaaaaaaaaaaa','2016-01-06 21:03:00','0','demo'),
+
+('352','dT2owtxkU8k','00:01:42','102','0:28 horse sound? Or its just me?','2016-01-06 21:03:00','0','demo'),
+
+('353','dT2owtxkU8k','00:01:44','104','I have three types of music on my playlist: CountryClassic RockShawn Mendes','2016-01-06 21:03:00','0','demo'),
+
+('354','dT2owtxkU8k','00:01:46','106','Amei','2016-01-06 21:03:00','0','demo'),
+
+('355','dT2owtxkU8k','00:01:48','108','Anyone getting Isla Fisher vibes??? 🙄🙄🙄','2016-01-06 21:03:00','0','demo'),
+
+('356','dT2owtxkU8k','00:01:50','110','theres nothing me back from guns','2016-01-06 21:03:00','0','demo'),
+
+('357','dT2owtxkU8k','00:01:52','112','Shawn you are the best, I love you ♥','2016-01-06 21:03:00','0','demo'),
+
+('358','dT2owtxkU8k','00:01:54','114','the only thing holding this song back is the weak ass guitar rift.if it wasnt for that this song would have been perfect','2016-01-06 21:03:00','0','demo'),
+
+('359','dT2owtxkU8k','00:01:56','116','Why do I love this song so much?!!!! Its so catchy! Ive been singing this all day!','2016-01-06 21:03:00','0','demo'),
+
+('360','dT2owtxkU8k','00:01:58','118','i love this song','2016-01-06 21:03:00','0','demo'),
+
+('361','dT2owtxkU8k','00:02:00','120','Theres nothing me back!','2016-01-06 21:03:00','0','demo'),
+
+('362','dT2owtxkU8k','00:02:02','122','Awesome dude','2016-01-06 21:03:00','0','demo'),
+
+('363','dT2owtxkU8k','00:02:04','124','2:23 DID HE JUST JUMP ?!!!!!!!!!!! OMG SHAWN MENDES DIED','2016-01-06 21:03:00','0','demo'),
+
+('364','dT2owtxkU8k','00:02:06','126','Shawn 😍papasitoooooooo','2016-01-06 21:03:00','0','demo'),
+
+('365','dT2owtxkU8k','00:02:08','128','música linda','2016-01-06 21:03:00','0','demo'),
+
+('366','dT2owtxkU8k','00:02:10','130','I Love You ❤❤❤','2016-01-06 21:03:00','1','demo'),
+
+('367','dT2owtxkU8k','00:02:12','132','Amor perfeito','2016-01-06 21:03:00','1','demo'),
+
+('368','dT2owtxkU8k','00:02:14','134','Breathtaking 💕💕💕','2016-01-06 21:03:00','0','demo'),
+
+('369','dT2owtxkU8k','00:02:16','136','did anyone watch the behind the scenes video?','2016-01-06 21:03:00','0','demo'),
+
+('370','dT2owtxkU8k','00:02:18','138','Da hora','2016-01-06 21:03:00','0','demo'),
+
+('371','dT2owtxkU8k','00:02:20','140','elprodetodossssssssss','2016-01-06 21:03:00','0','demo'),
+
+('372','dT2owtxkU8k','00:02:22','142','elpro','2016-01-06 21:03:00','0','demo'),
+
+('373','dT2owtxkU8k','00:02:24','144','ME LEMBROU MT O CLAY DE 13 RW DSCLP','2016-01-06 21:03:00','0','demo'),
+
+('374','dT2owtxkU8k','00:02:26','146','0:25','2016-01-06 21:03:00','0','demo'),
+
+('375','dT2owtxkU8k','00:02:28','148','I love shaw mendes','2016-01-06 21:03:00','0','demo'),
+
+('376','dT2owtxkU8k','00:02:30','150','My heart pounds along with the beat when I listen to his voice My joy when I listen to this I shout-sing these songs I die whenever he sings','2016-01-06 21:03:00','0','demo'),
+
+('377','dT2owtxkU8k','00:02:32','152','Love','2016-01-06 21:03:00','0','demo'),
+
+('378','dT2owtxkU8k','00:02:34','154','I love youuu so much 😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍','2016-01-06 21:03:00','0','demo'),
+
+('379','dT2owtxkU8k','00:02:36','156','Amei ❤💘','2016-01-06 21:03:00','0','demo'),
+
+('380','dT2owtxkU8k','00:02:38','158','Cant stop hearing in www.listenonrepeat.com','2016-01-06 21:03:00','0','demo'),
+
+('381','dT2owtxkU8k','00:02:40','160','honestly wish i was her ❤️','2016-01-06 21:03:00','0','demo'),
+
+('382','dT2owtxkU8k','00:02:42','162','The beat the dance to life is goingFeel the beat I can open the conversationIf I open with two words will you give me four and then I give you eightWi','2016-01-06 21:03:00','0','demo'),
+
+('383','dT2owtxkU8k','00:02:44','164','Maşallah sana nazar değmesin inşallah dgnacska','2016-01-06 21:03:00','0','demo'),
+
+('384','dT2owtxkU8k','00:02:46','166','2018 ?','2016-01-06 21:03:00','0','demo'),
+
+('385','dT2owtxkU8k','00:02:48','168','woho','2016-01-06 21:03:00','0','demo'),
+
+('386','dT2owtxkU8k','00:02:50','170','whos watching in 2019?','2016-01-06 21:03:00','0','demo'),
+
+('387','dT2owtxkU8k','00:02:52','172','BR????','2016-01-06 21:03:00','0','demo'),
+
+('388','dT2owtxkU8k','00:02:54','174','Incrível! TE AMO❤','2016-01-06 21:03:00','0','demo'),
+
+('389','dT2owtxkU8k','00:02:56','176','지민이커버곡으로  잘어울릴듯','2016-01-06 21:03:00','0','demo'),
+
+('390','dT2owtxkU8k','00:02:58','178','J aime trop 😍😍🇫🇷','2016-01-06 21:03:00','0','demo'),
+
+('391','dT2owtxkU8k','00:03:00','180','Voooh vvoooh vvhooooo shavvn mendes l cant , there hollinding notning me back','2016-01-06 21:03:00','0','demo'),
+
+('392','dT2owtxkU8k','00:03:02','182','Shavvn mendes and ellie babie','2016-01-06 21:03:00','0','demo'),
+
+('393','dT2owtxkU8k','00:03:04','184','free!','2016-01-06 21:03:00','0','demo'),
+
+('394','dT2owtxkU8k','00:03:06','186','SO GOOD :D','2016-01-06 21:03:00','0','demo'),
+
+('395','dT2owtxkU8k','00:03:08','188','Não sou viado mas curto musica gringa tipo essa Havana etc','2016-01-06 21:03:00','0','demo'),
+
+('396','dT2owtxkU8k','00:03:10','190','LO AMO LO AMO LA  AMO','2016-01-06 21:03:00','0','demo'),
+
+('397','dT2owtxkU8k','00:03:12','192','😍','2016-01-06 21:03:00','0','demo'),
+
+('398','dT2owtxkU8k','00:03:14','194','2018?','2016-01-06 21:03:00','0','demo'),
+
+('399','dT2owtxkU8k','00:03:16','196','2018?','2016-01-06 21:03:00','1','demo'),
+
+('400','dT2owtxkU8k','00:03:18','198','I love you sing','2016-01-06 21:03:00','0','demo');
+
+INSERT INTO comments(id, video_id, video_time, seconds, content, created_at, likes, username) VALUES 
+
 ('401','3AtDnEC4zak','00:00:00','0','Starting of video - OIS Example','2016-01-06 21:03:00','0','demo'),
 
 ('402','3AtDnEC4zak','00:00:02','2','From India','2016-01-06 21:03:00','0','demo'),
@@ -810,407 +1012,407 @@ INSERT INTO comments(id, video_id, video_time, seconds, content, created_at, lik
 
 INSERT INTO comments(id, video_id, video_time, seconds, content, created_at, likes, username) VALUES 
 
-('501','TyHvyGVs42U','00:00:00','0','2017 best music: Despacito 2018 go echame la culpa!! Go like and share all, go best music!','2016-01-06 21:03:00','0','demo'),
+('501','TyHvyGVs42U','00:00:00','0','2018😘😘','2016-01-06 21:03:00','0','demo'),
 
-('502','TyHvyGVs42U','00:00:02','2','2017 best music: Despasito 2018 go echame la culpa!! Go like and share all, go best music!','2016-01-06 21:03:00','0','demo'),
+('502','TyHvyGVs42U','00:00:02','2','Los éxitos de cada año de Luis Fonsi:2017 despacito/2018 échame la culpa 😜','2016-01-06 21:03:00','0','demo'),
 
-('503','TyHvyGVs42U','00:00:04','4','2017 best music: Despasito 2018 go echame la culpa!! Go like and share all, go best music!','2016-01-06 21:03:00','0','demo'),
+('503','TyHvyGVs42U','00:00:04','4','I dont Wana fight anymore','2016-01-06 21:03:00','1','demo'),
 
-('504','TyHvyGVs42U','00:00:06','6','2017 best music: Despasito 2018 go échame la culpa!! Go like and share all, go best music!','2016-01-06 21:03:00','0','demo'),
+('504','TyHvyGVs42U','00:00:06','6','Continue luis fonzi','2016-01-06 21:03:00','0','demo'),
 
-('505','TyHvyGVs42U','00:00:08','8','2017 best music: Despasito 2018 go échame la culpa!! Go like and share all, go best music!','2016-01-06 21:03:00','0','demo'),
+('505','TyHvyGVs42U','00:00:08','8','Wow #1😱😱😱','2016-01-06 21:03:00','0','demo'),
 
-('506','TyHvyGVs42U','00:00:10','10','https://www.youtube.com/watch?v=n-WbOnhuCJc','2016-01-06 21:03:00','0','demo'),
+('506','TyHvyGVs42U','00:00:10','10','Me gusta mucho tu canción 😍😍😍','2016-01-06 21:03:00','0','demo'),
 
-('507','TyHvyGVs42U','00:00:12','12','www.djcleber.com.br  /  O melhor do flashback anos 90 e 2000','2016-01-06 21:03:00','0','demo'),
+('507','TyHvyGVs42U','00:00:12','12','Very cool','2016-01-06 21:03:00','0','demo'),
 
-('508','TyHvyGVs42U','00:00:14','14','demi lovato,demi lo remuevo','2016-01-06 21:03:00','0','demo'),
+('508','TyHvyGVs42U','00:00:14','14','2018','2016-01-06 21:03:00','0','demo'),
 
-('509','TyHvyGVs42U','00:00:16','16','Demi  lovato  😍😍😍😍😍😍❤❤❤❤❤❤❤❤','2016-01-06 21:03:00','0','demo'),
+('509','TyHvyGVs42U','00:00:16','16','Brasil','2016-01-06 21:03:00','0','demo'),
 
-('510','TyHvyGVs42U','00:00:18','18','El meme más Argentino we re loko','2016-01-06 21:03:00','0','demo'),
+('510','TyHvyGVs42U','00:00:18','18','POLSKA przejmuje dobra muze #POLSKA','2016-01-06 21:03:00','1','demo'),
 
-('511','TyHvyGVs42U','00:00:20','20','Luis fonsi es el profesor de español, ya que puso a cantar a Justin bieber y ahora a demi en español 😂','2016-01-06 21:03:00','0','demo'),
+('511','TyHvyGVs42U','00:00:20','20','me encanta la canción poner un me gusta','2016-01-06 21:03:00','1','demo'),
 
-('512','TyHvyGVs42U','00:00:22','22','Ele só faz música boa pqp','2016-01-06 21:03:00','0','demo'),
+('512','TyHvyGVs42U','00:00:22','22','▄︻̷̿┻̿═━一wow!!!','2016-01-06 21:03:00','0','demo'),
 
-('513','TyHvyGVs42U','00:00:24','24','Plz 100 likes','2016-01-06 21:03:00','0','demo'),
+('513','TyHvyGVs42U','00:00:24','24','hey Fonsi is great i salut you ::you are amazing  i love your song ok','2016-01-06 21:03:00','0','demo'),
 
-('514','TyHvyGVs42U','00:00:26','26','latinos?','2016-01-06 21:03:00','0','demo'),
+('514','TyHvyGVs42U','00:00:26','26','Arabic songs for parting beloved','2016-01-06 21:03:00','0','demo'),
 
-('515','TyHvyGVs42U','00:00:28','28','muito fiche','2016-01-06 21:03:00','0','demo'),
+('515','TyHvyGVs42U','00:00:28','28','Arabic songs for parting beloved','2016-01-06 21:03:00','0','demo'),
 
-('516','TyHvyGVs42U','00:00:30','30','просто   супер','2016-01-06 21:03:00','0','demo'),
+('516','TyHvyGVs42U','00:00:30','30','qe bonita can cion','2016-01-06 21:03:00','0','demo'),
 
-('517','TyHvyGVs42U','00:00:32','32','Demi 😍❤🔥','2016-01-06 21:03:00','0','demo'),
+('517','TyHvyGVs42U','00:00:32','32','Si no es necesario e importante es que no y','2016-01-06 21:03:00','0','demo'),
 
-('518','TyHvyGVs42U','00:00:34','34','Soy yo  jaja😍😘😘😘','2016-01-06 21:03:00','0','demo'),
+('518','TyHvyGVs42U','00:00:34','34','Amazing song😍😍😍😍😍😘😘😘','2016-01-06 21:03:00','0','demo'),
 
-('519','TyHvyGVs42U','00:00:36','36','16-11-2017 <> 24-01-2018 646M viewers.... 🔥 🔥','2016-01-06 21:03:00','0','demo'),
+('519','TyHvyGVs42U','00:00:36','36','Por que Luis Fonsi canta como marica en esta canción??','2016-01-06 21:03:00','0','demo'),
 
-('520','TyHvyGVs42U','00:00:38','38','Luis y demy ases buena pareja','2016-01-06 21:03:00','0','demo'),
+('520','TyHvyGVs42U','00:00:38','38','2018??????','2016-01-06 21:03:00','0','demo'),
 
-('521','TyHvyGVs42U','00:00:40','40','*This song gonna be next Despacito*','2016-01-06 21:03:00','1','demo'),
+('521','TyHvyGVs42U','00:00:40','40','🇹🇭🇹🇭🇹🇭🇹🇭🇹🇭','2016-01-06 21:03:00','0','demo'),
 
-('522','TyHvyGVs42U','00:00:42','42','es UNA DEL LAS CANCIONESS MAS ESCUCHADAS DEL MUNDO','2016-01-06 21:03:00','0','demo'),
+('522','TyHvyGVs42U','00:00:42','42','😍😘😘😁😊😊','2016-01-06 21:03:00','0','demo'),
 
-('523','TyHvyGVs42U','00:00:44','44','estaria bueno que fonsi cante con maluma jajajajajjajaja','2016-01-06 21:03:00','0','demo'),
+('523','TyHvyGVs42U','00:00:44','44','2017 best music: Despacito 2018 go echame la culpa!! Go like and share all, go best music!','2016-01-06 21:03:00','0','demo'),
 
-('524','TyHvyGVs42U','00:00:46','46','muy buena cansion jajajaja y muy lindo fonsi y devi lovatto muy bellos','2016-01-06 21:03:00','0','demo'),
+('524','TyHvyGVs42U','00:00:46','46','2017 best music: Despasito 2018 go echame la culpa!! Go like and share all, go best music!','2016-01-06 21:03:00','0','demo'),
 
-('525','TyHvyGVs42U','00:00:48','48','Primci demi','2016-01-06 21:03:00','0','demo'),
+('525','TyHvyGVs42U','00:00:48','48','2017 best music: Despasito 2018 go echame la culpa!! Go like and share all, go best music!','2016-01-06 21:03:00','0','demo'),
 
-('526','TyHvyGVs42U','00:00:50','50','Yok artık aleyna napmış öyle ya herşeyi ortada bakı|n ----> xKbIDyMDYmcfCEM bit.ly/2rv5NVi  akenifati.fezumiha.sedavanu-gamakacube-yazefugibe.tahutayo','2016-01-06 21:03:00','0','demo'),
+('526','TyHvyGVs42U','00:00:50','50','2017 best music: Despasito 2018 go échame la culpa!! Go like and share all, go best music!','2016-01-06 21:03:00','0','demo'),
 
-('527','TyHvyGVs42U','00:00:52','52','Luis fonsi','2016-01-06 21:03:00','0','demo'),
+('527','TyHvyGVs42U','00:00:52','52','2017 best music: Despasito 2018 go échame la culpa!! Go like and share all, go best music!','2016-01-06 21:03:00','0','demo'),
 
-('528','TyHvyGVs42U','00:00:54','54','That’s music is very good','2016-01-06 21:03:00','0','demo'),
+('528','TyHvyGVs42U','00:00:54','54','https://www.youtube.com/watch?v=n-WbOnhuCJc','2016-01-06 21:03:00','0','demo'),
 
-('529','TyHvyGVs42U','00:00:56','56','KTO Z POLSKI?','2016-01-06 21:03:00','0','demo'),
+('529','TyHvyGVs42U','00:00:56','56','www.djcleber.com.br  /  O melhor do flashback anos 90 e 2000','2016-01-06 21:03:00','0','demo'),
 
-('530','TyHvyGVs42U','00:00:58','58','I said  Hey Fonsi  to my Google Assistant and she brought me here','2016-01-06 21:03:00','0','demo'),
+('530','TyHvyGVs42U','00:00:58','58','demi lovato,demi lo remuevo','2016-01-06 21:03:00','0','demo'),
 
-('531','TyHvyGVs42U','00:01:00','60','Hej Fonsi Hej Demi XDDD','2016-01-06 21:03:00','0','demo'),
+('531','TyHvyGVs42U','00:01:00','60','Demi  lovato  😍😍😍😍😍😍❤❤❤❤❤❤❤❤','2016-01-06 21:03:00','0','demo'),
 
-('532','TyHvyGVs42U','00:01:02','62','megusta','2016-01-06 21:03:00','0','demo'),
+('532','TyHvyGVs42U','00:01:02','62','El meme más Argentino we re loko','2016-01-06 21:03:00','0','demo'),
 
-('533','TyHvyGVs42U','00:01:04','64','Suscriviros a mi canal porfavor','2016-01-06 21:03:00','1','demo'),
+('533','TyHvyGVs42U','00:01:04','64','Luis fonsi es el profesor de español, ya que puso a cantar a Justin bieber y ahora a demi en español 😂','2016-01-06 21:03:00','0','demo'),
 
-('534','TyHvyGVs42U','00:01:06','66','Yass','2016-01-06 21:03:00','0','demo'),
+('534','TyHvyGVs42U','00:01:06','66','Ele só faz música boa pqp','2016-01-06 21:03:00','0','demo'),
 
-('535','TyHvyGVs42U','00:01:08','68','Te amo Luis Fonsi','2016-01-06 21:03:00','0','demo'),
+('535','TyHvyGVs42U','00:01:08','68','Plz 100 likes','2016-01-06 21:03:00','0','demo'),
 
-('536','TyHvyGVs42U','00:01:10','70','demi lovato like','2016-01-06 21:03:00','0','demo'),
+('536','TyHvyGVs42U','00:01:10','70','latinos?','2016-01-06 21:03:00','0','demo'),
 
-('537','TyHvyGVs42U','00:01:12','72','Hey, FonsiOh, no¿Qué pasa Demi?Hey, yeahTengo en esta historia algo que confesarYa entendí muy bien que fue lo que pasóY aunque duela tanto tengo que ','2016-01-06 21:03:00','1','demo'),
+('537','TyHvyGVs42U','00:01:12','72','muito fiche','2016-01-06 21:03:00','0','demo'),
 
-('538','TyHvyGVs42U','00:01:14','74','Louis fonsi Youre the best 😎😍😘','2016-01-06 21:03:00','0','demo'),
+('538','TyHvyGVs42U','00:01:14','74','просто   супер','2016-01-06 21:03:00','0','demo'),
 
-('539','TyHvyGVs42U','00:01:16','76','Wauuuuu😍😍😍😍😍😍😍😍😍😍😍😍😍😍','2016-01-06 21:03:00','0','demo'),
+('539','TyHvyGVs42U','00:01:16','76','Demi 😍❤🔥','2016-01-06 21:03:00','0','demo'),
 
-('540','TyHvyGVs42U','00:01:18','78','🇬🇷😍❤️❤️❤️❤️🧡🧡💛💛💜💜💙💙💚💚🖤🖤💔❣️❣️💓💓💞💕💕💗💗💖💖💘💝','2016-01-06 21:03:00','0','demo'),
+('540','TyHvyGVs42U','00:01:18','78','Soy yo  jaja😍😘😘😘','2016-01-06 21:03:00','0','demo'),
 
-('541','TyHvyGVs42U','00:01:20','80','me gusto 😘😘😘💑💑💓💞💖😍😍😍💏 love yu','2016-01-06 21:03:00','0','demo'),
+('541','TyHvyGVs42U','00:01:20','80','16-11-2017 <> 24-01-2018 646M viewers.... 🔥 🔥','2016-01-06 21:03:00','1','demo'),
 
-('542','TyHvyGVs42U','00:01:22','82','17 millions dabonnés 😱😱😱','2016-01-06 21:03:00','0','demo'),
+('542','TyHvyGVs42U','00:01:22','82','Luis y demy ases buena pareja','2016-01-06 21:03:00','0','demo'),
 
-('543','TyHvyGVs42U','00:01:24','84','Sou do Brasil 🇧🇷kkkk paródia despacito','2016-01-06 21:03:00','1','demo'),
+('543','TyHvyGVs42U','00:01:24','84','*This song gonna be next Despacito*','2016-01-06 21:03:00','1','demo'),
 
-('544','TyHvyGVs42U','00:01:26','86','😍😍😍😍','2016-01-06 21:03:00','0','demo'),
+('544','TyHvyGVs42U','00:01:26','86','es UNA DEL LAS CANCIONESS MAS ESCUCHADAS DEL MUNDO','2016-01-06 21:03:00','0','demo'),
 
-('545','TyHvyGVs42U','00:01:28','88','la mejor musica de lius y también despacio los pendejos que le den dis like son gilipolla esto es música','2016-01-06 21:03:00','0','demo'),
+('545','TyHvyGVs42U','00:01:28','88','estaria bueno que fonsi cante con maluma jajajajajjajaja','2016-01-06 21:03:00','0','demo'),
 
-('546','TyHvyGVs42U','00:01:30','90','meow cat hair','2016-01-06 21:03:00','0','demo'),
+('546','TyHvyGVs42U','00:01:30','90','muy buena cansion jajajaja y muy lindo fonsi y devi lovatto muy bellos','2016-01-06 21:03:00','0','demo'),
 
-('547','TyHvyGVs42U','00:01:32','92','Mon lafert','2016-01-06 21:03:00','0','demo'),
+('547','TyHvyGVs42U','00:01:32','92','Primci demi','2016-01-06 21:03:00','0','demo'),
 
-('548','TyHvyGVs42U','00:01:34','94','Mi idol','2016-01-06 21:03:00','0','demo'),
+('548','TyHvyGVs42U','00:01:34','94','Yok artık aleyna napmış öyle ya herşeyi ortada bakı|n ----> xKbIDyMDYmcfCEM bit.ly/2rv5NVi  akenifati.fezumiha.sedavanu-gamakacube-yazefugibe.tahutayo','2016-01-06 21:03:00','0','demo'),
 
-('549','TyHvyGVs42U','00:01:36','96','esta canción me trae recuerdosssss','2016-01-06 21:03:00','0','demo'),
+('549','TyHvyGVs42U','00:01:36','96','Luis fonsi','2016-01-06 21:03:00','0','demo'),
 
-('550','TyHvyGVs42U','00:01:38','98','https://youtu.be/Kmf7CBaxxQg','2016-01-06 21:03:00','0','demo'),
+('550','TyHvyGVs42U','00:01:38','98','That’s music is very good','2016-01-06 21:03:00','0','demo'),
 
-('551','TyHvyGVs42U','00:01:40','100','https://youtu.be/Kmf7CBaxxQg','2016-01-06 21:03:00','0','demo'),
+('551','TyHvyGVs42U','00:01:40','100','KTO Z POLSKI?','2016-01-06 21:03:00','0','demo'),
 
-('552','TyHvyGVs42U','00:01:42','102','esta en bomba','2016-01-06 21:03:00','0','demo'),
+('552','TyHvyGVs42U','00:01:42','102','I said  Hey Fonsi  to my Google Assistant and she brought me here','2016-01-06 21:03:00','0','demo'),
 
-('553','TyHvyGVs42U','00:01:44','104','Guatemala','2016-01-06 21:03:00','0','demo'),
+('553','TyHvyGVs42U','00:01:44','104','Hej Fonsi Hej Demi XDDD','2016-01-06 21:03:00','0','demo'),
 
-('554','TyHvyGVs42U','00:01:46','106','Çok iyi..','2016-01-06 21:03:00','0','demo'),
+('554','TyHvyGVs42U','00:01:46','106','megusta','2016-01-06 21:03:00','0','demo'),
 
-('555','TyHvyGVs42U','00:01:48','108','huh','2016-01-06 21:03:00','0','demo'),
+('555','TyHvyGVs42U','00:01:48','108','Suscriviros a mi canal porfavor','2016-01-06 21:03:00','1','demo'),
 
-('556','TyHvyGVs42U','00:01:50','110','Una canción que nadie olvidará','2016-01-06 21:03:00','1','demo'),
+('556','TyHvyGVs42U','00:01:50','110','Yass','2016-01-06 21:03:00','0','demo'),
 
-('557','TyHvyGVs42U','00:01:52','112','LIKE SI LA ESTAS ESCUCHANDO EN EL 2018😂','2016-01-06 21:03:00','0','demo'),
+('557','TyHvyGVs42U','00:01:52','112','Te amo Luis Fonsi','2016-01-06 21:03:00','0','demo'),
 
-('558','TyHvyGVs42U','00:01:54','114','Toppppp','2016-01-06 21:03:00','1','demo'),
+('558','TyHvyGVs42U','00:01:54','114','demi lovato like','2016-01-06 21:03:00','0','demo'),
 
-('559','TyHvyGVs42U','00:01:56','116','Já escutei essa música mil vezes e amo d+💖💖💖','2016-01-06 21:03:00','0','demo'),
+('559','TyHvyGVs42U','00:01:56','116','Hey, FonsiOh, no¿Qué pasa Demi?Hey, yeahTengo en esta historia algo que confesarYa entendí muy bien que fue lo que pasóY aunque duela tanto tengo que ','2016-01-06 21:03:00','1','demo'),
 
-('560','TyHvyGVs42U','00:01:58','118','love love','2016-01-06 21:03:00','0','demo'),
+('560','TyHvyGVs42U','00:01:58','118','Louis fonsi Youre the best 😎😍😘','2016-01-06 21:03:00','0','demo'),
 
-('561','TyHvyGVs42U','00:02:00','120','Holla commostas','2016-01-06 21:03:00','0','demo'),
+('561','TyHvyGVs42U','00:02:00','120','Wauuuuu😍😍😍😍😍😍😍😍😍😍😍😍😍😍','2016-01-06 21:03:00','0','demo'),
 
-('562','TyHvyGVs42U','00:02:02','122','Luis me encantaron tus canciones','2016-01-06 21:03:00','1','demo'),
+('562','TyHvyGVs42U','00:02:02','122','🇬🇷😍❤️❤️❤️❤️🧡🧡💛💛💜💜💙💙💚💚🖤🖤💔❣️❣️💓💓💞💕💕💗💗💖💖💘💝','2016-01-06 21:03:00','0','demo'),
 
-('563','TyHvyGVs42U','00:02:04','124','ECHAME LA CULPA','2016-01-06 21:03:00','1','demo'),
+('563','TyHvyGVs42U','00:02:04','124','me gusto 😘😘😘💑💑💓💞💖😍😍😍💏 love yu','2016-01-06 21:03:00','0','demo'),
 
-('564','TyHvyGVs42U','00:02:06','126','Best song ever...I freaking love this','2016-01-06 21:03:00','0','demo'),
+('564','TyHvyGVs42U','00:02:06','126','17 millions dabonnés 😱😱😱','2016-01-06 21:03:00','0','demo'),
 
-('565','TyHvyGVs42U','00:02:08','128','Despacito 2.0 xD','2016-01-06 21:03:00','0','demo'),
+('565','TyHvyGVs42U','00:02:08','128','Sou do Brasil 🇧🇷kkkk paródia despacito','2016-01-06 21:03:00','1','demo'),
 
-('566','TyHvyGVs42U','00:02:10','130','No eres tu soyo','2016-01-06 21:03:00','0','demo'),
+('566','TyHvyGVs42U','00:02:10','130','😍😍😍😍','2016-01-06 21:03:00','0','demo'),
 
-('567','TyHvyGVs42U','00:02:12','132','Çok güzellllllllllllll','2016-01-06 21:03:00','0','demo'),
+('567','TyHvyGVs42U','00:02:12','132','la mejor musica de lius y también despacio los pendejos que le den dis like son gilipolla esto es música','2016-01-06 21:03:00','0','demo'),
 
-('568','TyHvyGVs42U','00:02:14','134','Hey fonsi!Thats superb I ll watch it more than 10 times','2016-01-06 21:03:00','0','demo'),
+('568','TyHvyGVs42U','00:02:14','134','meow cat hair','2016-01-06 21:03:00','0','demo'),
 
-('569','TyHvyGVs42U','00:02:16','136','me','2016-01-06 21:03:00','0','demo'),
+('569','TyHvyGVs42U','00:02:16','136','Mon lafert','2016-01-06 21:03:00','0','demo'),
 
-('570','TyHvyGVs42U','00:02:18','138','me encanta','2016-01-06 21:03:00','0','demo'),
+('570','TyHvyGVs42U','00:02:18','138','Mi idol','2016-01-06 21:03:00','0','demo'),
 
-('571','TyHvyGVs42U','00:02:20','140','IPhone sí o no qué pasa de mí tengo en esta historia algo que confesar ya entendí muy bien lo que fue qué pasó','2016-01-06 21:03:00','0','demo'),
+('571','TyHvyGVs42U','00:02:20','140','esta canción me trae recuerdosssss','2016-01-06 21:03:00','0','demo'),
 
-('572','TyHvyGVs42U','00:02:22','142','Una de las mejores canciones del año 2010 del año 2018','2016-01-06 21:03:00','0','demo'),
+('572','TyHvyGVs42U','00:02:22','142','https://youtu.be/Kmf7CBaxxQg','2016-01-06 21:03:00','0','demo'),
 
-('573','TyHvyGVs42U','00:02:24','144','kto z polski 2018 roku','2016-01-06 21:03:00','1','demo'),
+('573','TyHvyGVs42U','00:02:24','144','https://youtu.be/Kmf7CBaxxQg','2016-01-06 21:03:00','0','demo'),
 
-('574','TyHvyGVs42U','00:02:26','146','This is better than despacito','2016-01-06 21:03:00','0','demo'),
+('574','TyHvyGVs42U','00:02:26','146','esta en bomba','2016-01-06 21:03:00','0','demo'),
 
-('575','TyHvyGVs42U','00:02:28','148','fac kiuzgfvsxgfd','2016-01-06 21:03:00','0','demo'),
+('575','TyHvyGVs42U','00:02:28','148','Guatemala','2016-01-06 21:03:00','0','demo'),
 
-('576','TyHvyGVs42U','00:02:30','150','Türk yokmu ?😕','2016-01-06 21:03:00','1','demo'),
+('576','TyHvyGVs42U','00:02:30','150','Çok iyi..','2016-01-06 21:03:00','0','demo'),
 
-('577','TyHvyGVs42U','00:02:32','152','Bom','2016-01-06 21:03:00','0','demo'),
+('577','TyHvyGVs42U','00:02:32','152','huh','2016-01-06 21:03:00','0','demo'),
 
-('578','TyHvyGVs42U','00:02:34','154','Soy tu fan numero uno Luis fonsi 😘😘😘😘😂😂😂😂🤣🤣🤣🤣','2016-01-06 21:03:00','0','demo'),
+('578','TyHvyGVs42U','00:02:34','154','Una canción que nadie olvidará','2016-01-06 21:03:00','1','demo'),
 
-('579','TyHvyGVs42U','00:02:36','156','Videos. De. Cosa. Masones','2016-01-06 21:03:00','0','demo'),
+('579','TyHvyGVs42U','00:02:36','156','LIKE SI LA ESTAS ESCUCHANDO EN EL 2018😂','2016-01-06 21:03:00','0','demo'),
 
-('580','TyHvyGVs42U','00:02:38','158','ella es  la que trabaja en Disney Channel de la película Camp Rock','2016-01-06 21:03:00','0','demo'),
+('580','TyHvyGVs42U','00:02:38','158','Toppppp','2016-01-06 21:03:00','1','demo'),
 
-('581','TyHvyGVs42U','00:02:40','160','Hm prfect','2016-01-06 21:03:00','0','demo'),
+('581','TyHvyGVs42U','00:02:40','160','Já escutei essa música mil vezes e amo d+💖💖💖','2016-01-06 21:03:00','0','demo'),
 
-('582','TyHvyGVs42U','00:02:42','162','Adoctrinensé  carajo. Sientansé culpables, el Capitalismo y la OTáN lo necesita.','2016-01-06 21:03:00','0','demo'),
+('582','TyHvyGVs42U','00:02:42','162','love love','2016-01-06 21:03:00','0','demo'),
 
-('583','TyHvyGVs42U','00:02:44','164','LYRICS:Hey FonsiOh no (Qué pasa Demi)HmmHey yeahTengo en esta historia algo que confesarYa entendí muy bien qué fue lo que pasóY aunque duela tanto, t','2016-01-06 21:03:00','12','demo'),
+('583','TyHvyGVs42U','00:02:44','164','Holla commostas','2016-01-06 21:03:00','0','demo'),
 
-('584','TyHvyGVs42U','00:02:46','166','Yok artık aleyna napmış öyle ya herşeyi orta_da bakın ----> RojvrEBcbkhnxaO bit.ly/2rv5NVi  acemolepe.tefadiho.vuseneva-dugekefode-nudivekadu.youtubea','2016-01-06 21:03:00','0','demo'),
+('584','TyHvyGVs42U','00:02:46','166','Luis me encantaron tus canciones','2016-01-06 21:03:00','1','demo'),
 
-('585','TyHvyGVs42U','00:02:48','168','Melhor musica do Mundo inteiro!💖💕','2016-01-06 21:03:00','0','demo'),
+('585','TyHvyGVs42U','00:02:48','168','ECHAME LA CULPA','2016-01-06 21:03:00','1','demo'),
 
-('586','TyHvyGVs42U','00:02:50','170','Sigue siendo mi cancion favorita <3 Gracias Demi y Fonsi por hacerla posible !!','2016-01-06 21:03:00','0','demo'),
+('586','TyHvyGVs42U','00:02:50','170','Best song ever...I freaking love this','2016-01-06 21:03:00','0','demo'),
 
-('587','TyHvyGVs42U','00:02:52','172','hey fonsy.  . im from INDONESIA','2016-01-06 21:03:00','0','demo'),
+('587','TyHvyGVs42U','00:02:52','172','Despacito 2.0 xD','2016-01-06 21:03:00','0','demo'),
 
-('588','TyHvyGVs42U','00:02:54','174',', ez igen ez a szar nagyon tökéletes azt mar elhiszem hogy jó ez a szar csak nekem szól ez a dal','2016-01-06 21:03:00','0','demo'),
+('588','TyHvyGVs42U','00:02:54','174','No eres tu soyo','2016-01-06 21:03:00','0','demo'),
 
-('589','TyHvyGVs42U','00:02:56','176','*This Song Has Furture Like Despacito*','2016-01-06 21:03:00','0','demo'),
+('589','TyHvyGVs42U','00:02:56','176','Çok güzellllllllllllll','2016-01-06 21:03:00','0','demo'),
 
-('590','TyHvyGVs42U','00:02:58','178','Polska 2018 👅','2016-01-06 21:03:00','1','demo'),
+('590','TyHvyGVs42U','00:02:58','178','Hey fonsi!Thats superb I ll watch it more than 10 times','2016-01-06 21:03:00','0','demo'),
 
-('591','TyHvyGVs42U','00:03:00','180','love hey fonsi','2016-01-06 21:03:00','1','demo'),
+('591','TyHvyGVs42U','00:03:00','180','me','2016-01-06 21:03:00','0','demo'),
 
-('592','TyHvyGVs42U','00:03:02','182','me gusta','2016-01-06 21:03:00','0','demo'),
+('592','TyHvyGVs42U','00:03:02','182','me encanta','2016-01-06 21:03:00','0','demo'),
 
-('593','TyHvyGVs42U','00:03:04','184','Luís fonsi vc é lindo ❤❤','2016-01-06 21:03:00','0','demo'),
+('593','TyHvyGVs42U','00:03:04','184','IPhone sí o no qué pasa de mí tengo en esta historia algo que confesar ya entendí muy bien lo que fue qué pasó','2016-01-06 21:03:00','0','demo'),
 
-('594','TyHvyGVs42U','00:03:06','186','hejcia','2016-01-06 21:03:00','1','demo'),
+('594','TyHvyGVs42U','00:03:06','186','Una de las mejores canciones del año 2010 del año 2018','2016-01-06 21:03:00','1','demo'),
 
-('595','TyHvyGVs42U','00:03:08','188','#Polska','2016-01-06 21:03:00','0','demo'),
+('595','TyHvyGVs42U','00:03:08','188','kto z polski 2018 roku','2016-01-06 21:03:00','2','demo'),
 
-('596','TyHvyGVs42U','00:03:10','190','Marcos antonio solis','2016-01-06 21:03:00','0','demo'),
+('596','TyHvyGVs42U','00:03:10','190','This is better than despacito','2016-01-06 21:03:00','0','demo'),
 
-('597','TyHvyGVs42U','00:03:12','192','I like this song anymore','2016-01-06 21:03:00','1','demo'),
+('597','TyHvyGVs42U','00:03:12','192','fac kiuzgfvsxgfd','2016-01-06 21:03:00','0','demo'),
 
-('598','TyHvyGVs42U','00:03:14','194','Better of Despacito','2016-01-06 21:03:00','0','demo'),
+('598','TyHvyGVs42U','00:03:14','194','Türk yokmu ?😕','2016-01-06 21:03:00','1','demo'),
 
-('599','TyHvyGVs42U','00:03:16','196','Like si creen que la canción todavía no pasa de moda 👍','2016-01-06 21:03:00','1','demo'),
+('599','TyHvyGVs42U','00:03:16','196','Bom','2016-01-06 21:03:00','0','demo'),
 
-('600','TyHvyGVs42U','00:03:18','198','💃👍👍👌👌👌👌❤❤❤❤❤❤❤','2016-01-06 21:03:00','0','demo');
+('600','TyHvyGVs42U','00:03:18','198','Soy tu fan numero uno Luis fonsi 😘😘😘😘😂😂😂😂🤣🤣🤣🤣','2016-01-06 21:03:00','0','demo');
 
 INSERT INTO comments(id, video_id, video_time, seconds, content, created_at, likes, username) VALUES 
 
-('601','2Vv-BfVoq4g','00:00:00','0','❤','2016-01-06 21:03:00','0','demo'),
+('601','BQ0mxQXmLsk','00:00:00','0','My name. Camilla','2016-01-06 21:03:00','0','demo'),
 
-('602','2Vv-BfVoq4g','00:00:02','2','Perfect !!!💙😊❤','2016-01-06 21:03:00','1','demo'),
+('602','BQ0mxQXmLsk','00:00:04','4','You','2016-01-06 21:03:00','0','demo'),
 
-('603','2Vv-BfVoq4g','00:00:04','4','He is such an amazing artist!','2016-01-06 21:03:00','0','demo'),
+('603','BQ0mxQXmLsk','00:00:08','8','Cadê os Brasileiros🇧🇷🇧🇷🇧🇷','2016-01-06 21:03:00','1','demo'),
 
-('604','2Vv-BfVoq4g','00:00:06','6','This is Perfect','2016-01-06 21:03:00','1','demo'),
+('604','BQ0mxQXmLsk','00:00:12','12','hana hana hana 👍','2016-01-06 21:03:00','0','demo'),
 
-('605','2Vv-BfVoq4g','00:00:08','8','Nice ❤️','2016-01-06 21:03:00','0','demo'),
+('605','BQ0mxQXmLsk','00:00:16','16','3:15 😍😘😍😘','2016-01-06 21:03:00','1','demo'),
 
-('606','2Vv-BfVoq4g','00:00:10','10','This song is at the same level of I dont wanna miss a thing 😍','2016-01-06 21:03:00','0','demo'),
+('606','BQ0mxQXmLsk','00:00:20','20','# punch','2016-01-06 21:03:00','0','demo'),
 
-('607','2Vv-BfVoq4g','00:00:12','12','This was in austria','2016-01-06 21:03:00','0','demo'),
+('607','BQ0mxQXmLsk','00:00:24','24','The song starts at 2:29','2016-01-06 21:03:00','1','demo'),
 
-('608','2Vv-BfVoq4g','00:00:14','14','👍👍👍👍👍😎😎😎😎❤','2016-01-06 21:03:00','0','demo'),
+('608','BQ0mxQXmLsk','00:00:28','28','2018😎✊✊','2016-01-06 21:03:00','0','demo'),
 
-('609','2Vv-BfVoq4g','00:00:16','16','I love this song👍😘','2016-01-06 21:03:00','0','demo'),
+('609','BQ0mxQXmLsk','00:00:32','32','Quieres una chancleta 😂😂😂🇧🇿🇧🇿','2016-01-06 21:03:00','0','demo'),
 
-('610','2Vv-BfVoq4g','00:00:18','18','Best song ive ever listened to 🙂','2016-01-06 21:03:00','0','demo'),
+('610','BQ0mxQXmLsk','00:00:36','36','lele pons?????','2016-01-06 21:03:00','0','demo'),
 
-('611','2Vv-BfVoq4g','00:00:20','20','i love you Ed Sheeran','2016-01-06 21:03:00','0','demo'),
+('611','BQ0mxQXmLsk','00:00:40','40','2:27 music starts','2016-01-06 21:03:00','0','demo'),
 
-('612','2Vv-BfVoq4g','00:00:22','22','Im happy that hes engaged😊this song is perfect I bet this will be their wedding song','2016-01-06 21:03:00','0','demo'),
+('612','BQ0mxQXmLsk','00:00:44','44','Whelp','2016-01-06 21:03:00','0','demo'),
 
-('613','2Vv-BfVoq4g','00:00:24','24','2018?','2016-01-06 21:03:00','0','demo'),
+('613','BQ0mxQXmLsk','00:00:48','48','Lele pons','2016-01-06 21:03:00','0','demo'),
 
-('614','2Vv-BfVoq4g','00:00:26','26','Hello  Comment Scrollers !! This song is recorded  on  Hintertux glacier and on hotel neuhintertux . I hope you guys have a lovely days and be safe .B','2016-01-06 21:03:00','0','demo'),
+('614','BQ0mxQXmLsk','00:00:52','52','d booty wins','2016-01-06 21:03:00','0','demo'),
 
-('615','2Vv-BfVoq4g','00:00:28','28','how does this song have that many streams on spotify','2016-01-06 21:03:00','0','demo'),
+('615','BQ0mxQXmLsk','00:00:56','56','الي عرب لايك','2016-01-06 21:03:00','0','demo'),
 
-('616','2Vv-BfVoq4g','00:00:30','30','this channel has more subs than dude perfect','2016-01-06 21:03:00','0','demo'),
+('616','BQ0mxQXmLsk','00:01:00','60','Brazil(Brasil)Metade do meu coração faz parte de havana una nah nah','2016-01-06 21:03:00','0','demo'),
 
-('617','2Vv-BfVoq4g','00:00:32','32','Driving like no girl likes me, please, if youre getting out of the saddle with someone and you dont have a saddle with you, take her love messagesAnd ','2016-01-06 21:03:00','0','demo'),
+('617','BQ0mxQXmLsk','00:01:04','64','La chancla🤣🤣🤣','2016-01-06 21:03:00','0','demo'),
 
-('618','2Vv-BfVoq4g','00:00:34','34','Wow','2016-01-06 21:03:00','0','demo'),
+('618','BQ0mxQXmLsk','00:01:08','68','Love the song but the video is ridiculous...','2016-01-06 21:03:00','0','demo'),
 
-('619','2Vv-BfVoq4g','00:00:36','36','The beautiful song i never heared before I wish some day i fund this love....I hope live a crazy story like this!!!','2016-01-06 21:03:00','0','demo'),
+('619','BQ0mxQXmLsk','00:01:12','72','Minha música favorita 😍','2016-01-06 21:03:00','0','demo'),
 
-('620','2Vv-BfVoq4g','00:00:38','38','this song are perfect','2016-01-06 21:03:00','0','demo'),
+('620','BQ0mxQXmLsk','00:01:16','76','Yo me llamo *Karla*','2016-01-06 21:03:00','0','demo'),
 
-('621','2Vv-BfVoq4g','00:00:40','40','This song is perfect','2016-01-06 21:03:00','1','demo'),
+('621','BQ0mxQXmLsk','00:01:20','80','Havana es la mejor canción','2016-01-06 21:03:00','0','demo'),
 
-('622','2Vv-BfVoq4g','00:00:42','42','I love perfect','2016-01-06 21:03:00','0','demo'),
+('622','BQ0mxQXmLsk','00:01:24','84','HAVANA 🔥❤️❤️❤️','2016-01-06 21:03:00','0','demo'),
 
-('623','2Vv-BfVoq4g','00:00:44','44','Perfect ❤️❤️','2016-01-06 21:03:00','0','demo'),
+('623','BQ0mxQXmLsk','00:01:28','88','https://media.giphy.com/media/vWDrezW0rMjmM/giphy.gif','2016-01-06 21:03:00','1','demo'),
 
-('624','2Vv-BfVoq4g','00:00:46','46','the passion for the video or the moves','2016-01-06 21:03:00','0','demo'),
+('624','BQ0mxQXmLsk','00:01:32','92','Sexi','2016-01-06 21:03:00','1','demo'),
 
-('625','2Vv-BfVoq4g','00:00:48','48','Coool','2016-01-06 21:03:00','0','demo'),
+('625','BQ0mxQXmLsk','00:01:36','96','2018 alguém? Não saí da cabeça essa música','2016-01-06 21:03:00','1','demo'),
 
-('626','2Vv-BfVoq4g','00:00:50','50','Die deutsche Übersetzung findet ihr auf meinem Kanal: https://www.youtube.com/watch?v=tMRG-H1rb-U&feature=youtu.beSchaut doch gerne mal rein! :)','2016-01-06 21:03:00','0','demo'),
+('626','BQ0mxQXmLsk','00:01:40','100','Que linda,canción 😘😘❤❤❤👄','2016-01-06 21:03:00','0','demo'),
 
-('627','2Vv-BfVoq4g','00:00:52','52','this song made me cry a lot because we broke up and i miss my newborn baby son i love him but she took him away and this song just broke every part in','2016-01-06 21:03:00','1','demo'),
+('627','BQ0mxQXmLsk','00:01:44','104','jadore mais tu fais trop ta belle','2016-01-06 21:03:00','0','demo'),
 
-('628','2Vv-BfVoq4g','00:00:54','54','The song, video is simply awesome','2016-01-06 21:03:00','0','demo'),
+('628','BQ0mxQXmLsk','00:01:48','108','This makes me hungry...Banana -ounanan bananas 🍌🍌🍌','2016-01-06 21:03:00','0','demo'),
 
-('629','2Vv-BfVoq4g','00:00:56','56','Its a beutifull','2016-01-06 21:03:00','1','demo'),
+('629','BQ0mxQXmLsk','00:01:52','112','Havan unana','2016-01-06 21:03:00','1','demo'),
 
-('630','2Vv-BfVoq4g','00:00:58','58','I found a girl','2016-01-06 21:03:00','1','demo'),
+('630','BQ0mxQXmLsk','00:01:56','116','Is that lele??? I love you lele','2016-01-06 21:03:00','0','demo'),
 
-('631','2Vv-BfVoq4g','00:01:00','60','we denken nog altijd aan jou Amelie Claus','2016-01-06 21:03:00','0','demo'),
+('631','BQ0mxQXmLsk','00:02:00','120','God list','2016-01-06 21:03:00','0','demo'),
 
-('632','2Vv-BfVoq4g','00:01:02','62','Wow PERFECT','2016-01-06 21:03:00','1','demo'),
+('632','BQ0mxQXmLsk','00:02:04','124','I shouldnt like this song but damn it i do. I cant explain it but i really like this song','2016-01-06 21:03:00','0','demo'),
 
-('633','2Vv-BfVoq4g','00:01:04','64','You can describe this song just with a word:PERFECT👑','2016-01-06 21:03:00','0','demo'),
+('633','BQ0mxQXmLsk','00:02:08','128','Super love this❤️❤️❤️👍🏼👍🏼💋','2016-01-06 21:03:00','0','demo'),
 
-('634','2Vv-BfVoq4g','00:01:06','66','The fuck is this shit? Goddamn music nowadays.','2016-01-06 21:03:00','0','demo'),
+('634','BQ0mxQXmLsk','00:02:12','132','I love you...Havana','2016-01-06 21:03:00','0','demo'),
 
-('635','2Vv-BfVoq4g','00:01:08','68','Cette musique est Perfect !😂','2016-01-06 21:03:00','0','demo'),
+('635','BQ0mxQXmLsk','00:02:16','136','If I see camila I will get a bike and fall in ground in front of her lol she is she best!😀🌹🌹🌹🌹','2016-01-06 21:03:00','0','demo'),
 
-('636','2Vv-BfVoq4g','00:01:10','70','Nice Setting!! And The Song!!... WTF!','2016-01-06 21:03:00','0','demo'),
+('636','BQ0mxQXmLsk','00:02:20','140','Best Song ever','2016-01-06 21:03:00','1','demo'),
 
-('637','2Vv-BfVoq4g','00:01:12','72','Yuk dicek, kita jual tissue tessa dengan harga murah loh.... Harga dijamin murah...https://www.tokopedia.com/annzstore/tissue-tessa-murah','2016-01-06 21:03:00','0','demo'),
+('637','BQ0mxQXmLsk','00:02:24','144','Hello,hallo 😂2019😂😂joike😉😂','2016-01-06 21:03:00','0','demo'),
 
-('638','2Vv-BfVoq4g','00:01:14','74','My favourite this','2016-01-06 21:03:00','0','demo'),
+('638','BQ0mxQXmLsk','00:02:28','148','6:21 good dance moves Grand-Ma xD','2016-01-06 21:03:00','0','demo'),
 
-('639','2Vv-BfVoq4g','00:01:16','76','Love from Malaysia <3','2016-01-06 21:03:00','0','demo'),
+('639','BQ0mxQXmLsk','00:02:32','152','2:37 ur welcome','2016-01-06 21:03:00','0','demo'),
 
-('640','2Vv-BfVoq4g','00:01:18','78','Dio cane','2016-01-06 21:03:00','1','demo'),
+('640','BQ0mxQXmLsk','00:02:36','156','Best','2016-01-06 21:03:00','0','demo'),
 
-('641','2Vv-BfVoq4g','00:01:20','80','Kygo must remix this! <3 XD','2016-01-06 21:03:00','0','demo'),
+('641','BQ0mxQXmLsk','00:02:40','160','BR 🇧🇷🇧🇷??','2016-01-06 21:03:00','1','demo'),
 
-('642','2Vv-BfVoq4g','00:01:22','82','This is my favourit music','2016-01-06 21:03:00','0','demo'),
+('642','BQ0mxQXmLsk','00:02:44','164','1 like this comment: 9 views3 like this comment: 30 views10 like this comment : 108 views','2016-01-06 21:03:00','0','demo'),
 
-('643','2Vv-BfVoq4g','00:01:24','84','perfect   Ed   Sheeran','2016-01-06 21:03:00','0','demo'),
+('643','BQ0mxQXmLsk','00:02:48','168','Havana ❤️❤️❤️','2016-01-06 21:03:00','0','demo'),
 
-('644','2Vv-BfVoq4g','00:01:26','86','Perfekt','2016-01-06 21:03:00','0','demo'),
+('644','BQ0mxQXmLsk','00:02:52','172','The parz with lele is best 😍😘😂','2016-01-06 21:03:00','0','demo'),
 
-('645','2Vv-BfVoq4g','00:01:28','88','Perfekt','2016-01-06 21:03:00','0','demo'),
+('645','BQ0mxQXmLsk','00:02:56','176','Anyone else noticed Noah?','2016-01-06 21:03:00','0','demo'),
 
-('646','2Vv-BfVoq4g','00:01:30','90','Best music video','2016-01-06 21:03:00','0','demo'),
+('646','BQ0mxQXmLsk','00:03:00','180','Ashu!❤️','2016-01-06 21:03:00','0','demo'),
 
-('647','2Vv-BfVoq4g','00:01:32','92','Lovely song i love this song','2016-01-06 21:03:00','0','demo'),
+('647','BQ0mxQXmLsk','00:03:04','184','그래서 이게 무슨내용이죠?','2016-01-06 21:03:00','0','demo'),
 
-('648','2Vv-BfVoq4g','00:01:34','94','I am going to do a ribbon dance on this song i love two songs perfect and faded.😙😙😙😙😚😚😚😚😙😍😍','2016-01-06 21:03:00','1','demo'),
+('648','BQ0mxQXmLsk','00:03:08','188','Хованский на на на','2016-01-06 21:03:00','0','demo'),
 
-('649','2Vv-BfVoq4g','00:01:36','96','who are these 152k people?they dont deserve to live','2016-01-06 21:03:00','1','demo'),
+('649','BQ0mxQXmLsk','00:03:12','192','Is that lele pons','2016-01-06 21:03:00','0','demo'),
 
-('650','2Vv-BfVoq4g','00:01:38','98','Cadê os br apaixonados !!','2016-01-06 21:03:00','0','demo'),
+('650','BQ0mxQXmLsk','00:03:16','196','Τελειο','2016-01-06 21:03:00','0','demo'),
 
-('651','2Vv-BfVoq4g','00:01:40','100','i love music','2016-01-06 21:03:00','0','demo'),
+('651','BQ0mxQXmLsk','00:03:20','200','There is lele pons','2016-01-06 21:03:00','0','demo'),
 
-('652','2Vv-BfVoq4g','00:01:42','102','Oooooo😍💕💕💕❤✌','2016-01-06 21:03:00','1','demo'),
+('652','BQ0mxQXmLsk','00:03:24','204','2:28','2016-01-06 21:03:00','0','demo'),
 
-('653','2Vv-BfVoq4g','00:01:44','104','Ed is so cute','2016-01-06 21:03:00','0','demo'),
+('653','BQ0mxQXmLsk','00:03:28','208','Tip: the song begins at 2:29','2016-01-06 21:03:00','0','demo'),
 
-('654','2Vv-BfVoq4g','00:01:46','106','Whole day...singing this song only 😍','2016-01-06 21:03:00','0','demo'),
+('654','BQ0mxQXmLsk','00:03:32','212','lelepon:D','2016-01-06 21:03:00','0','demo'),
 
-('655','2Vv-BfVoq4g','00:01:48','108','my lovee ❤','2016-01-06 21:03:00','0','demo'),
+('655','BQ0mxQXmLsk','00:03:36','216','the more I watch this the more i dont realize amolita is a man . It actually really suits .','2016-01-06 21:03:00','0','demo'),
 
-('656','2Vv-BfVoq4g','00:01:50','110','i just love this song... :-)','2016-01-06 21:03:00','0','demo'),
+('656','BQ0mxQXmLsk','00:03:40','220','The best song of 2017!','2016-01-06 21:03:00','0','demo'),
 
-('657','2Vv-BfVoq4g','00:01:52','112','❤❤❤❤❤❤','2016-01-06 21:03:00','0','demo'),
+('657','BQ0mxQXmLsk','00:03:44','224','Omg she is so beautiful.and sounds like me when I sing.','2016-01-06 21:03:00','0','demo'),
 
-('658','2Vv-BfVoq4g','00:01:54','114','я тоже хочу быть в такой любви I also want to be in such love','2016-01-06 21:03:00','0','demo'),
+('658','BQ0mxQXmLsk','00:03:48','228','LOL','2016-01-06 21:03:00','0','demo'),
 
-('659','2Vv-BfVoq4g','00:01:56','116','https://www.youtube.com/channel/UCpW83uHdhHEZ60hFZ7R7iHw','2016-01-06 21:03:00','0','demo'),
+('659','BQ0mxQXmLsk','00:03:52','232','Yaaass Havana No #1 on billboards hot 100🔥You deserved it Camila 💓👊','2016-01-06 21:03:00','1','demo'),
 
-('660','2Vv-BfVoq4g','00:01:58','118','i love this song <3','2016-01-06 21:03:00','0','demo'),
+('660','BQ0mxQXmLsk','00:03:56','236','6: 20 xd xd','2016-01-06 21:03:00','0','demo'),
 
-('661','2Vv-BfVoq4g','00:02:00','120','wow..........nice song, nice music, with nice video....... beautiful','2016-01-06 21:03:00','0','demo'),
+('661','BQ0mxQXmLsk','00:04:00','240','Is that lele pons','2016-01-06 21:03:00','0','demo'),
 
-('662','2Vv-BfVoq4g','00:02:02','122','Nice really prefect','2016-01-06 21:03:00','0','demo'),
+('662','BQ0mxQXmLsk','00:04:04','244','Is that lele pons','2016-01-06 21:03:00','0','demo'),
 
-('663','2Vv-BfVoq4g','00:02:04','124','I am from Indonesia and i love your songs and videos, its so the best of Ed Sheeran','2016-01-06 21:03:00','0','demo'),
+('663','BQ0mxQXmLsk','00:04:08','248','Havana at altana','2016-01-06 21:03:00','0','demo'),
 
-('664','2Vv-BfVoq4g','00:02:06','126','Lord,who ever holds this mans heart. Please dont break it. Good grief...','2016-01-06 21:03:00','0','demo'),
+('664','BQ0mxQXmLsk','00:04:12','252','Half of my heart is with Camila 💖💖💖💖','2016-01-06 21:03:00','1','demo'),
 
-('665','2Vv-BfVoq4g','00:02:08','128','Ed Best 🌟','2016-01-06 21:03:00','0','demo'),
+('665','BQ0mxQXmLsk','00:04:16','256','Loving this song 💙💚😍😗','2016-01-06 21:03:00','0','demo'),
 
-('666','2Vv-BfVoq4g','00:02:10','130','Omg this song Sounds exactly like the song that was by a song writer called Reuben Grey who was on Got Talent, he wrote a song to say sorry to his GF ','2016-01-06 21:03:00','0','demo'),
+('666','BQ0mxQXmLsk','00:04:20','260','Love 1','2016-01-06 21:03:00','0','demo'),
 
-('667','2Vv-BfVoq4g','00:02:12','132','oooooooooooooooo','2016-01-06 21:03:00','0','demo'),
+('667','BQ0mxQXmLsk','00:04:24','264','Banana oh na na 😂❤','2016-01-06 21:03:00','0','demo'),
 
-('668','2Vv-BfVoq4g','00:02:14','134','I love the music','2016-01-06 21:03:00','0','demo'),
+('668','BQ0mxQXmLsk','00:04:28','268','2018??','2016-01-06 21:03:00','0','demo'),
 
-('669','2Vv-BfVoq4g','00:02:16','136','KANALIMA ABONE OLUN LÜTFEN DESTEK VERİN TÜRKİYEye','2016-01-06 21:03:00','0','demo'),
+('669','BQ0mxQXmLsk','00:04:32','272','#N1 on billboard 💓👊','2016-01-06 21:03:00','0','demo'),
 
-('670','2Vv-BfVoq4g','00:02:18','138','https://teespring.com/party-time-music-lovers-fun#pid=525&cid=101935&sid=frontFor all Music Lovers','2016-01-06 21:03:00','0','demo'),
+('670','BQ0mxQXmLsk','00:04:36','276','Very nice song','2016-01-06 21:03:00','0','demo'),
 
-('671','2Vv-BfVoq4g','00:02:20','140','Bellissima questa canzone','2016-01-06 21:03:00','0','demo'),
+('671','BQ0mxQXmLsk','00:04:40','280','OMG it started after 2:30 is that fu*k','2016-01-06 21:03:00','1','demo'),
 
-('672','2Vv-BfVoq4g','00:02:22','142','💗💗💗💗','2016-01-06 21:03:00','0','demo'),
+('672','BQ0mxQXmLsk','00:04:44','284','Bella/lele pons is So funny','2016-01-06 21:03:00','0','demo'),
 
-('673','2Vv-BfVoq4g','00:02:24','144','I was given a death sentence in May of 2017 and this song reminds me of my husband and myself I was 13 and he was 15 when we started dating and we got','2016-01-06 21:03:00','0','demo'),
+('673','BQ0mxQXmLsk','00:04:48','288','2050 squad?','2016-01-06 21:03:00','0','demo'),
 
-('674','2Vv-BfVoq4g','00:02:26','146','Love perfact💘','2016-01-06 21:03:00','0','demo'),
+('674','BQ0mxQXmLsk','00:04:52','292','This is a horrible song and I dont get why people like it','2016-01-06 21:03:00','0','demo'),
 
-('675','2Vv-BfVoq4g','00:02:28','148','Hi to all fans Of Ed Sheeran','2016-01-06 21:03:00','0','demo'),
+('675','BQ0mxQXmLsk','00:04:56','296','Algum BR??','2016-01-06 21:03:00','0','demo'),
 
-('676','2Vv-BfVoq4g','00:02:30','150','https://www.youtube.com/channel/UCaxp7DhvacGlBUdvcUxvzpw?view_as=subscriber','2016-01-06 21:03:00','0','demo'),
+('676','BQ0mxQXmLsk','00:05:00','300','Why is Lele pons in this? lol','2016-01-06 21:03:00','0','demo'),
 
-('677','2Vv-BfVoq4g','00:02:32','152','Is this Maya from zack and cody','2016-01-06 21:03:00','0','demo'),
+('677','BQ0mxQXmLsk','00:05:04','304','Nice job camila cabello! Havana oh na na!.. I love this!','2016-01-06 21:03:00','0','demo'),
 
-('678','2Vv-BfVoq4g','00:02:34','154','this songs is my favourte is perfect is incredible is beutifful i don´t have words to describe this GOOD WORK ED','2016-01-06 21:03:00','0','demo'),
+('678','BQ0mxQXmLsk','00:05:08','308','pleas sup in my canal','2016-01-06 21:03:00','0','demo'),
 
-('679','2Vv-BfVoq4g','00:02:36','156','❤','2016-01-06 21:03:00','0','demo'),
+('679','BQ0mxQXmLsk','00:05:12','312','2018?? 😍😘','2016-01-06 21:03:00','0','demo'),
 
-('680','2Vv-BfVoq4g','00:02:38','158','I remix this song please listen to it on my channel.','2016-01-06 21:03:00','0','demo'),
+('680','BQ0mxQXmLsk','00:05:16','316','wow','2016-01-06 21:03:00','0','demo'),
 
-('681','2Vv-BfVoq4g','00:02:40','160','me like fidios','2016-01-06 21:03:00','0','demo'),
+('681','BQ0mxQXmLsk','00:05:20','320','LOL','2016-01-06 21:03:00','0','demo'),
 
-('682','2Vv-BfVoq4g','00:02:42','162','It will be the first 4K popular music video in the world','2016-01-06 21:03:00','0','demo'),
+('682','BQ0mxQXmLsk','00:05:24','324','nerds are hot','2016-01-06 21:03:00','0','demo'),
 
-('683','2Vv-BfVoq4g','00:02:44','164','GOOD','2016-01-06 21:03:00','0','demo'),
+('683','BQ0mxQXmLsk','00:05:28','328','4:10','2016-01-06 21:03:00','0','demo'),
 
-('684','2Vv-BfVoq4g','00:02:46','166','My favorite 😍😍💚💚👌👌','2016-01-06 21:03:00','1','demo'),
+('684','BQ0mxQXmLsk','00:05:32','332','Omg lele pons','2016-01-06 21:03:00','0','demo'),
 
-('685','2Vv-BfVoq4g','00:02:48','168','I am gonna sing this song when I get marriage 🙌🏼','2016-01-06 21:03:00','0','demo'),
+('685','BQ0mxQXmLsk','00:05:36','336','Soooo ein tolles Lied 😍😘😘','2016-01-06 21:03:00','1','demo'),
 
-('686','2Vv-BfVoq4g','00:02:50','170','2018 Anyone still lovin ed❤️??Only me','2016-01-06 21:03:00','1','demo'),
+('686','BQ0mxQXmLsk','00:05:40','340','2018!!!!!','2016-01-06 21:03:00','1','demo'),
 
-('687','2Vv-BfVoq4g','00:02:52','172','hello+ 1 comment','2016-01-06 21:03:00','0','demo'),
+('687','BQ0mxQXmLsk','00:05:44','344','Havana 🎶🎶🎵🎶🎵🎵não consigo parar de ouvir','2016-01-06 21:03:00','0','demo'),
 
-('688','2Vv-BfVoq4g','00:02:54','174','I love your songs','2016-01-06 21:03:00','0','demo'),
+('688','BQ0mxQXmLsk','00:05:48','348','I cant stop listening to this song','2016-01-06 21:03:00','0','demo'),
 
-('689','2Vv-BfVoq4g','00:02:56','176','I love your songs','2016-01-06 21:03:00','0','demo'),
+('689','BQ0mxQXmLsk','00:05:52','352','film çekseydiniz ag','2016-01-06 21:03:00','0','demo'),
 
-('690','2Vv-BfVoq4g','00:02:58','178','Perffeeecctt💋💋','2016-01-06 21:03:00','0','demo'),
+('690','BQ0mxQXmLsk','00:05:56','356','Meme en 2018 HOVANA :D','2016-01-06 21:03:00','1','demo'),
 
-('691','2Vv-BfVoq4g','00:03:00','180','Love this song❤👌😍😘','2016-01-06 21:03:00','0','demo'),
+('691','BQ0mxQXmLsk','00:06:00','360','Who watches the fosters because in the and when she follows that dude that is juses','2016-01-06 21:03:00','0','demo'),
 
-('692','2Vv-BfVoq4g','00:03:02','182','Title is Perfect while the song is Perfect','2016-01-06 21:03:00','0','demo'),
+('692','BQ0mxQXmLsk','00:06:04','364','THATS MUH BOI YOUNG THUG!','2016-01-06 21:03:00','0','demo'),
 
-('693','2Vv-BfVoq4g','00:03:04','184',':( * heart beats too loud *','2016-01-06 21:03:00','0','demo'),
+('693','BQ0mxQXmLsk','00:06:08','368','oh oh oh ~~~~😉😉😉','2016-01-06 21:03:00','0','demo'),
 
-('694','2Vv-BfVoq4g','00:03:06','186','Crying coz this was our song...really shortlived','2016-01-06 21:03:00','0','demo'),
+('694','BQ0mxQXmLsk','00:06:12','372','i doubt anyone will take the time to read this but Im hoping at least one person will my name is Shay, im a young singer chasing a dream, i want to si','2016-01-06 21:03:00','1','demo'),
 
-('695','2Vv-BfVoq4g','00:03:08','188','I love you EDi MED COnfeti love love 3 EVOL se she ojenim baby','2016-01-06 21:03:00','1','demo'),
+('695','BQ0mxQXmLsk','00:06:16','376','Im just wondering why lele is in this','2016-01-06 21:03:00','0','demo'),
 
-('696','2Vv-BfVoq4g','00:03:10','190','The sun in winter','2016-01-06 21:03:00','0','demo'),
+('696','BQ0mxQXmLsk','00:06:20','380','Muito bom amei Todo o sucesso do mundo pra vc Camila(Eu sei que ela não vai entender nada do que eu escrevi)','2016-01-06 21:03:00','0','demo'),
 
-('697','2Vv-BfVoq4g','00:03:12','192','omg his smile at the beginning was.... GAAAAAAAAHD!','2016-01-06 21:03:00','0','demo'),
+('697','BQ0mxQXmLsk','00:06:24','384','Camila cabelo','2016-01-06 21:03:00','0','demo'),
 
-('698','2Vv-BfVoq4g','00:03:14','194','The song has the life,that can revive our hurt to believe in believe. In the time, when we looking forward to something for make fresh again.','2016-01-06 21:03:00','0','demo'),
+('698','BQ0mxQXmLsk','00:06:28','388','❤❤❤❤❤❤❤😍😍😍😍😍😍😍','2016-01-06 21:03:00','0','demo'),
 
-('699','2Vv-BfVoq4g','00:03:16','196','HOW CAN PEOPLE FUCKING DISLIKE THIS','2016-01-06 21:03:00','0','demo'),
+('699','BQ0mxQXmLsk','00:06:32','392','يلبى رعد و ميثاق💔😴','2016-01-06 21:03:00','0','demo'),
 
-('700','2Vv-BfVoq4g','00:03:18','198','Ed scheeran stoping😭😭😢','2016-01-06 21:03:00','0','demo');
+('700','BQ0mxQXmLsk','00:06:36','396','Vn đâu hết cmnr','2016-01-06 21:03:00','7','demo');
 
 INSERT INTO comments(id, video_id, video_time, seconds, content, created_at, likes, username) VALUES 
 
@@ -1416,205 +1618,205 @@ INSERT INTO comments(id, video_id, video_time, seconds, content, created_at, lik
 
 INSERT INTO comments(id, video_id, video_time, seconds, content, created_at, likes, username) VALUES 
 
-('801','CwfoyVa980U','00:00:00','0','awkward white folks dance and bad hair day','2016-01-06 21:03:00','0','demo'),
+('801','tt2k8PGm-TI','00:00:00','0','temaiken','2016-01-06 21:03:00','0','demo'),
 
-('802','CwfoyVa980U','00:00:02','2','kok kayak aku ya, nari2 sendiri hahahaha','2016-01-06 21:03:00','0','demo'),
+('802','tt2k8PGm-TI','00:00:03','3','Amazing song','2016-01-06 21:03:00','0','demo'),
 
-('803','CwfoyVa980U','00:00:04','4','One Call away- When she will become your girlfriend. Marvin Gaye- When she is your girlfriend Dangerously- When you have big feelings for her. We dont','2016-01-06 21:03:00','0','demo'),
+('803','tt2k8PGm-TI','00:00:06','6','You are the BEST singer of the world I LOVE you 😘😍','2016-01-06 21:03:00','0','demo'),
 
-('804','CwfoyVa980U','00:00:06','6','that paint in the wall looks like selena','2016-01-06 21:03:00','0','demo'),
+('804','tt2k8PGm-TI','00:00:09','9','Les Français 😘😘😘😘😘','2016-01-06 21:03:00','0','demo'),
 
-('805','CwfoyVa980U','00:00:08','8','he’s own my whole heart damn','2016-01-06 21:03:00','0','demo'),
+('805','tt2k8PGm-TI','00:00:12','12','Sia opaca a Zayn xD','2016-01-06 21:03:00','0','demo'),
 
-('806','CwfoyVa980U','00:00:10','10','How long ? Only 3:30 :)','2016-01-06 21:03:00','0','demo'),
+('806','tt2k8PGm-TI','00:00:15','15','Man.This song is so good!','2016-01-06 21:03:00','0','demo'),
 
-('807','CwfoyVa980U','00:00:12','12','His moves are really CREEPY!?!','2016-01-06 21:03:00','0','demo'),
+('807','tt2k8PGm-TI','00:00:18','18',';) Happy 😃 makes this Englisch izzzzz da','2016-01-06 21:03:00','1','demo'),
 
-('808','CwfoyVa980U','00:00:14','14','2k18?','2016-01-06 21:03:00','0','demo'),
+('808','tt2k8PGm-TI','00:00:21','21','Love this song😍','2016-01-06 21:03:00','0','demo'),
 
-('809','CwfoyVa980U','00:00:16','16','Like this #how long #dab on📱','2016-01-06 21:03:00','1','demo'),
+('809','tt2k8PGm-TI','00:00:24','24','716 mil zayn smashing it✌❤','2016-01-06 21:03:00','0','demo'),
 
-('810','CwfoyVa980U','00:00:18','18','toooooooooooooop i liike uuuuuuu😣😣😣😣😣😣😣😚😚😚😚😚😚😚😚😙😙😙😙😚😚😚😚','2016-01-06 21:03:00','0','demo'),
+('810','tt2k8PGm-TI','00:00:27','27','Brazil','2016-01-06 21:03:00','0','demo'),
 
-('811','CwfoyVa980U','00:00:20','20','Finaly i could listen in a good music','2016-01-06 21:03:00','0','demo'),
+('811','tt2k8PGm-TI','00:00:30','30','1B views........ Here we come.!!! 😎','2016-01-06 21:03:00','2','demo'),
 
-('812','CwfoyVa980U','00:00:22','22','Best song ever','2016-01-06 21:03:00','1','demo'),
+('812','tt2k8PGm-TI','00:00:33','33','at 1:17 my cat stood up','2016-01-06 21:03:00','2','demo'),
 
-('813','CwfoyVa980U','00:00:24','24','😗😙😘😚😙😘😚😙😘😚😙😙😘😚','2016-01-06 21:03:00','0','demo'),
+('813','tt2k8PGm-TI','00:00:36','36','700M+ Views.! 😍Who else is also waiting for 5M likes.!? ✌😎','2016-01-06 21:03:00','1','demo'),
 
-('814','CwfoyVa980U','00:00:26','26','OMG....the dace move is on poin','2016-01-06 21:03:00','0','demo'),
+('814','tt2k8PGm-TI','00:00:39','39','M','2016-01-06 21:03:00','0','demo'),
 
-('815','CwfoyVa980U','00:00:28','28','Para um corno ele tá muito  feliz, só dizendo....','2016-01-06 21:03:00','0','demo'),
+('815','tt2k8PGm-TI','00:00:42','42','He’s going to reach the billions club soon.','2016-01-06 21:03:00','0','demo'),
 
-('816','CwfoyVa980U','00:00:30','30','Good','2016-01-06 21:03:00','0','demo'),
+('816','tt2k8PGm-TI','00:00:45','45','❤','2016-01-06 21:03:00','0','demo'),
 
-('817','CwfoyVa980U','00:00:32','32','I love you Charlie Puth','2016-01-06 21:03:00','0','demo'),
+('817','tt2k8PGm-TI','00:00:48','48','Sia Queen!!! ZAYN King!!! They are so Good 👏👏','2016-01-06 21:03:00','0','demo'),
 
-('818','CwfoyVa980U','00:00:34','34','Love from Bangladesh ♥অনেক সুন্দর গান 💜','2016-01-06 21:03:00','0','demo'),
+('818','tt2k8PGm-TI','00:00:51','51','я русский!!!','2016-01-06 21:03:00','0','demo'),
 
-('819','CwfoyVa980U','00:00:36','36','In January??He is soooooo handsome. .I love him so much','2016-01-06 21:03:00','0','demo'),
+('819','tt2k8PGm-TI','00:00:54','54','SOON 1B!!! LIKE AND SHARE THIS SOONG!!! BEST SONG EVER <3','2016-01-06 21:03:00','1','demo'),
 
-('820','CwfoyVa980U','00:00:38','38','Jowo sek','2016-01-06 21:03:00','0','demo'),
+('820','tt2k8PGm-TI','00:00:57','57','Yassuo','2016-01-06 21:03:00','0','demo'),
 
-('821','CwfoyVa980U','00:00:40','40','When this song is about a girl and a guy and Charlie Puth is alone in this video... XD','2016-01-06 21:03:00','0','demo'),
+('821','tt2k8PGm-TI','00:01:00','60','Nice voice nice to sing and feel I will be with you dusk till Dawn 😍','2016-01-06 21:03:00','1','demo'),
 
-('822','CwfoyVa980U','00:00:42','42','This is such a good song!','2016-01-06 21:03:00','0','demo'),
+('822','tt2k8PGm-TI','00:01:03','63','La mejor canción ❤','2016-01-06 21:03:00','0','demo'),
 
-('823','CwfoyVa980U','00:00:44','44','When you dont have the budget and films it with green screen and his own apartment','2016-01-06 21:03:00','0','demo'),
+('823','tt2k8PGm-TI','00:01:06','66','4:28 OMG😱😱','2016-01-06 21:03:00','2','demo'),
 
-('824','CwfoyVa980U','00:00:46','46','Who is here before billion??','2016-01-06 21:03:00','0','demo'),
+('824','tt2k8PGm-TI','00:01:09','69','http://link.tl/1jz1i    justinnnn :) <3<3<3<3<3<3<3<3<3<3<3<3<3<3<3<3<3<33<333<33<3<33<3<3<3<3<3<3god man','2016-01-06 21:03:00','0','demo'),
 
-('825','CwfoyVa980U','00:00:48','48','your dance so funny 😀','2016-01-06 21:03:00','0','demo'),
+('825','tt2k8PGm-TI','00:01:12','72','you never be alone,im ready from dusk till dawn','2016-01-06 21:03:00','0','demo'),
 
-('826','CwfoyVa980U','00:00:50','50','if you like this song......so please  like the comment.because the song was awesome.','2016-01-06 21:03:00','0','demo'),
+('826','tt2k8PGm-TI','00:01:15','75','ZAYNS hairline is as bad as dejis','2016-01-06 21:03:00','0','demo'),
 
-('827','CwfoyVa980U','00:00:52','52','his moves r so cringy lmao','2016-01-06 21:03:00','0','demo'),
+('827','tt2k8PGm-TI','00:01:18','78','#TeamZayn','2016-01-06 21:03:00','1','demo'),
 
-('828','CwfoyVa980U','00:00:54','54','2018?','2016-01-06 21:03:00','0','demo'),
+('828','tt2k8PGm-TI','00:01:21','81','I like JB more than you zayn . Sia is awesome','2016-01-06 21:03:00','0','demo'),
 
-('829','CwfoyVa980U','00:00:56','56','😍 luv this song😙','2016-01-06 21:03:00','0','demo'),
+('829','tt2k8PGm-TI','00:01:24','84','Vincent! We happy? - Yeah, we happy...','2016-01-06 21:03:00','0','demo'),
 
-('830','CwfoyVa980U','00:00:58','58','Ooh❤','2016-01-06 21:03:00','0','demo'),
+('830','tt2k8PGm-TI','00:01:27','87','I love you😍😍😍😍😍😍😍😍😍😍😍😍','2016-01-06 21:03:00','0','demo'),
 
-('831','CwfoyVa980U','00:01:00','60','This video is literally me when I get good grades..','2016-01-06 21:03:00','0','demo'),
+('831','tt2k8PGm-TI','00:01:30','90','We want see zayn with camila cabello tog.ther  in new song$','2016-01-06 21:03:00','0','demo'),
 
-('832','CwfoyVa980U','00:01:02','62','I like this','2016-01-06 21:03:00','0','demo'),
+('832','tt2k8PGm-TI','00:01:33','93','2018?','2016-01-06 21:03:00','0','demo'),
 
-('833','CwfoyVa980U','00:01:04','64','Türkler ses verin aq.','2016-01-06 21:03:00','0','demo'),
+('833','tt2k8PGm-TI','00:01:36','96','If anything includes sia it always ends up outstanding','2016-01-06 21:03:00','0','demo'),
 
-('834','CwfoyVa980U','00:01:06','66','歌うますぎるそして歌最高だわ','2016-01-06 21:03:00','0','demo'),
+('834','tt2k8PGm-TI','00:01:39','99','Zayn ma niezłego Jaguara.','2016-01-06 21:03:00','0','demo'),
 
-('835','CwfoyVa980U','00:01:08','68','Amazing !))','2016-01-06 21:03:00','0','demo'),
+('835','tt2k8PGm-TI','00:01:42','102','lets GO FOR 1 BILLION... WE CAN DO IT !!!💛💛💛','2016-01-06 21:03:00','0','demo'),
 
-('836','CwfoyVa980U','00:01:10','70','10 milyon abone olursa uyandırın beni','2016-01-06 21:03:00','0','demo'),
+('836','tt2k8PGm-TI','00:01:45','105','👍👍👍😎😎😎','2016-01-06 21:03:00','0','demo'),
 
-('837','CwfoyVa980U','00:01:12','72','10 million subs pls','2016-01-06 21:03:00','0','demo'),
+('837','tt2k8PGm-TI','00:01:48','108','Who’s here for 1B???','2016-01-06 21:03:00','0','demo'),
 
-('838','CwfoyVa980U','00:01:14','74','coool','2016-01-06 21:03:00','0','demo'),
+('838','tt2k8PGm-TI','00:01:51','111','Never be bored to watch this 😍💕 zany n sia ❤','2016-01-06 21:03:00','0','demo'),
 
-('839','CwfoyVa980U','00:01:16','76','0:57 erik dalı hahahah','2016-01-06 21:03:00','0','demo'),
+('839','tt2k8PGm-TI','00:01:54','114','nc song ..🤗🤗','2016-01-06 21:03:00','0','demo'),
 
-('840','CwfoyVa980U','00:01:18','78','2018?','2016-01-06 21:03:00','1','demo'),
+('840','tt2k8PGm-TI','00:01:57','117','Zayynn ❤️','2016-01-06 21:03:00','0','demo'),
 
-('841','CwfoyVa980U','00:01:20','80','WTF Im a leader u fool what the shit u know me u idiot.. Go and die.. Your gf and ur mom are fucking with bitches and gays... 😂😂😂😈😈😈😈','2016-01-06 21:03:00','1','demo'),
+('841','tt2k8PGm-TI','00:02:00','120','i am here from 1 million views to 1 billion views #dusktilldawn ND so on','2016-01-06 21:03:00','0','demo'),
 
-('842','CwfoyVa980U','00:01:22','82','Cutest dancings ive ever seen','2016-01-06 21:03:00','0','demo'),
+('842','tt2k8PGm-TI','00:02:03','123','💜love you😗😘😋','2016-01-06 21:03:00','0','demo'),
 
-('843','CwfoyVa980U','00:01:24','84','the best part is that he looks so happy doing those awkward moves and really, thats all that matter lol.','2016-01-06 21:03:00','0','demo'),
+('843','tt2k8PGm-TI','00:02:06','126','Perfect song for between the mountain... nice job. Beautiful music ... Cheers','2016-01-06 21:03:00','1','demo'),
 
-('844','CwfoyVa980U','00:01:26','86','😚😚😚😄😄🇹🇭','2016-01-06 21:03:00','0','demo'),
+('844','tt2k8PGm-TI','00:02:09','129','Meuuu Deus...mellhor parceria...ameii','2016-01-06 21:03:00','0','demo'),
 
-('845','CwfoyVa980U','00:01:28','88','meuuuuuu😱 canta perfeito','2016-01-06 21:03:00','0','demo'),
+('845','tt2k8PGm-TI','00:02:12','132','Հայեր?','2016-01-06 21:03:00','1','demo'),
 
-('846','CwfoyVa980U','00:01:30','90','100K ( comment ), OMG!! Please trending on!!#Kipidap','2016-01-06 21:03:00','1','demo'),
+('846','tt2k8PGm-TI','00:02:15','135','Lets go for 1 billion, we can do it','2016-01-06 21:03:00','0','demo'),
 
-('847','CwfoyVa980U','00:01:32','92','Has to be one of the corniest and lame songs ever. Horrible beat. Repetitive. Appeals to the consumer and bandwagon type of people','2016-01-06 21:03:00','0','demo'),
+('847','tt2k8PGm-TI','00:02:18','138','Alguém Brasileiro aqui???? 👽da like','2016-01-06 21:03:00','0','demo'),
 
-('848','CwfoyVa980U','00:01:34','94','and thats how I dance when I am alone','2016-01-06 21:03:00','0','demo'),
+('848','tt2k8PGm-TI','00:02:21','141','God will be with me from dusk till dawn, the homies comment was funny 😂','2016-01-06 21:03:00','0','demo'),
 
-('849','CwfoyVa980U','00:01:36','96','i ador itaraesspect from algeria','2016-01-06 21:03:00','0','demo'),
+('849','tt2k8PGm-TI','00:02:24','144','Zayn could u answer this what is i the briefcase','2016-01-06 21:03:00','0','demo'),
 
-('850','CwfoyVa980U','00:01:38','98','nice song 👍👍👍','2016-01-06 21:03:00','0','demo'),
+('850','tt2k8PGm-TI','00:02:27','147','love','2016-01-06 21:03:00','1','demo'),
 
-('851','CwfoyVa980U','00:01:40','100','its my favorite song! i love it','2016-01-06 21:03:00','0','demo'),
+('851','tt2k8PGm-TI','00:02:30','150','I can listen this song from dusk till dawn👌','2016-01-06 21:03:00','0','demo'),
 
-('852','CwfoyVa980U','00:01:42','102','That picture reminds me of selena... am I the only one ?','2016-01-06 21:03:00','0','demo'),
+('852','tt2k8PGm-TI','00:02:33','153','https://youtu.be/abAG4_J3E_U','2016-01-06 21:03:00','0','demo'),
 
-('853','CwfoyVa980U','00:01:44','104','hot dance🔥🔥🔥','2016-01-06 21:03:00','0','demo'),
+('853','tt2k8PGm-TI','00:02:36','156','Purfekt','2016-01-06 21:03:00','0','demo'),
 
-('854','CwfoyVa980U','00:01:46','106','Hes dancing by himself...alone....I wanna give company...How long should I wait ????? Charlieeee','2016-01-06 21:03:00','0','demo'),
+('854','tt2k8PGm-TI','00:02:39','159','Miss u zayn','2016-01-06 21:03:00','0','demo'),
 
-('855','CwfoyVa980U','00:01:48','108','This song so good','2016-01-06 21:03:00','0','demo'),
+('855','tt2k8PGm-TI','00:02:42','162','Better than despacito','2016-01-06 21:03:00','1','demo'),
 
-('856','CwfoyVa980U','00:01:50','110','1:54 when u pass the exam without any preparations 😂😂','2016-01-06 21:03:00','1','demo'),
+('856','tt2k8PGm-TI','00:02:45','165','Stil love IT 2018','2016-01-06 21:03:00','0','demo'),
 
-('857','CwfoyVa980U','00:01:52','112','😍😍😍','2016-01-06 21:03:00','0','demo'),
+('857','tt2k8PGm-TI','00:02:48','168','Wery wery wery goood and beatiful song','2016-01-06 21:03:00','1','demo'),
 
-('858','CwfoyVa980U','00:01:54','114','Why did i broke the replay button?? 🙄','2016-01-06 21:03:00','2','demo'),
+('858','tt2k8PGm-TI','00:02:51','171','#SiaVEVO','2016-01-06 21:03:00','0','demo'),
 
-('859','CwfoyVa980U','00:01:56','116','this is good like it :3 btw Im girl','2016-01-06 21:03:00','0','demo'),
+('859','tt2k8PGm-TI','00:02:54','174','Super muza xddd!!!!!!:):):):):)','2016-01-06 21:03:00','0','demo'),
 
-('860','CwfoyVa980U','00:01:58','118','om posls e mayen.gader buk🐗A faammkk 😶Jake bi👍','2016-01-06 21:03:00','0','demo'),
+('860','tt2k8PGm-TI','00:02:57','177','https://youtu.be/nUJF8JuWLyc','2016-01-06 21:03:00','0','demo'),
 
-('861','CwfoyVa980U','00:02:00','120','Also I wanted to make his Song up then you just used it 🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣 well its okay cause your a good singer','2016-01-06 21:03:00','0','demo'),
+('861','tt2k8PGm-TI','00:03:00','180','Can I get 100 likes for no reason?','2016-01-06 21:03:00','0','demo'),
 
-('862','CwfoyVa980U','00:02:02','122','Wow this was a good song this is my first song I ever liked','2016-01-06 21:03:00','0','demo'),
+('862','tt2k8PGm-TI','00:03:03','183','Best song ever','2016-01-06 21:03:00','0','demo'),
 
-('863','CwfoyVa980U','00:02:04','124','3:24','2016-01-06 21:03:00','0','demo'),
+('863','tt2k8PGm-TI','00:03:06','186','Zayn seu lindo.','2016-01-06 21:03:00','0','demo'),
 
-('864','CwfoyVa980U','00:02:06','126','That oooh-ohh-ohhh is so attractive😂😂❤❤','2016-01-06 21:03:00','0','demo'),
+('864','tt2k8PGm-TI','00:03:09','189','I love you','2016-01-06 21:03:00','1','demo'),
 
-('865','CwfoyVa980U','00:02:08','128','me too','2016-01-06 21:03:00','0','demo'),
+('865','tt2k8PGm-TI','00:03:12','192','Love it','2016-01-06 21:03:00','0','demo'),
 
-('866','CwfoyVa980U','00:02:10','130','Okay, so I thought that these moves only belonged to my dad when he drank too much.','2016-01-06 21:03:00','0','demo'),
+('866','tt2k8PGm-TI','00:03:15','195','Zayn😍','2016-01-06 21:03:00','0','demo'),
 
-('867','CwfoyVa980U','00:02:12','132','Ya gotta love him.','2016-01-06 21:03:00','0','demo'),
+('867','tt2k8PGm-TI','00:03:18','198','Best','2016-01-06 21:03:00','0','demo'),
 
-('868','CwfoyVa980U','00:02:14','134','He is mothing  the words','2016-01-06 21:03:00','0','demo'),
+('868','tt2k8PGm-TI','00:03:21','201','Omg my favorite song ajajaja','2016-01-06 21:03:00','0','demo'),
 
-('869','CwfoyVa980U','00:02:16','136','I love you  Charlie puth♡♡','2016-01-06 21:03:00','0','demo'),
+('869','tt2k8PGm-TI','00:03:24','204','#COMEBACK','2016-01-06 21:03:00','0','demo'),
 
-('870','CwfoyVa980U','00:02:18','138','Dem why the dislikers are everyhwrre','2016-01-06 21:03:00','0','demo'),
+('870','tt2k8PGm-TI','00:03:27','207','ROAD TO 1B IS COMINGGGG','2016-01-06 21:03:00','0','demo'),
 
-('871','CwfoyVa980U','00:02:20','140','How long','2016-01-06 21:03:00','0','demo'),
+('871','tt2k8PGm-TI','00:03:30','210','♥♡','2016-01-06 21:03:00','0','demo'),
 
-('872','CwfoyVa980U','00:02:22','142','There goes Charlie Puth with another BANGER!!','2016-01-06 21:03:00','0','demo'),
+('872','tt2k8PGm-TI','00:03:33','213','Omg this song came out on my birthday 😂😂💕💘💖💓💓✌🏼👍🏼 {No joke}','2016-01-06 21:03:00','0','demo'),
 
-('873','CwfoyVa980U','00:02:24','144','È bellissima 😍😍😍','2016-01-06 21:03:00','0','demo'),
+('873','tt2k8PGm-TI','00:03:36','216','zayn you are doing well','2016-01-06 21:03:00','0','demo'),
 
-('874','CwfoyVa980U','00:02:26','146','Yourrrrrrr voiceeeeeee papasito!!!!!!!! Te amo','2016-01-06 21:03:00','0','demo'),
+('874','tt2k8PGm-TI','00:03:39','219','THATS COOL','2016-01-06 21:03:00','1','demo'),
 
-('875','CwfoyVa980U','00:02:28','148','who watched this video in 2018?','2016-01-06 21:03:00','0','demo'),
+('875','tt2k8PGm-TI','00:03:42','222','I love this songs2','2016-01-06 21:03:00','0','demo'),
 
-('876','CwfoyVa980U','00:02:30','150','ชอบท่าเต้น โดดแบบหยองๆ คนอะไรมีเสน่ห์มากก','2016-01-06 21:03:00','1','demo'),
+('876','tt2k8PGm-TI','00:03:45','225','Nice Zayn tooooooooppppppp','2016-01-06 21:03:00','0','demo'),
 
-('877','CwfoyVa980U','00:02:32','152','I love how dances and hes voice is just perfect and AMAZING!!!!!','2016-01-06 21:03:00','0','demo'),
+('877','tt2k8PGm-TI','00:03:48','228','I love Zayn😍😍','2016-01-06 21:03:00','1','demo'),
 
-('878','CwfoyVa980U','00:02:34','154','He is almost at 10Million subscribers!!!😄😘😍','2016-01-06 21:03:00','1','demo'),
+('878','tt2k8PGm-TI','00:03:51','231','Dusk till Dawn or Havana?','2016-01-06 21:03:00','0','demo'),
 
-('879','CwfoyVa980U','00:02:36','156','Insert title here Thats what she said','2016-01-06 21:03:00','0','demo'),
+('879','tt2k8PGm-TI','00:03:54','234','omg someone give link to that Number plate details, been searching it everywhere. or is it fake xD','2016-01-06 21:03:00','0','demo'),
 
-('880','CwfoyVa980U','00:02:38','158','Love you, Charlie but please dont dance. I prefer you singing while playing a piano. You cant dance.','2016-01-06 21:03:00','0','demo'),
+('880','tt2k8PGm-TI','00:03:57','237','Ive been at school from dusk till dawn','2016-01-06 21:03:00','0','demo'),
 
-('881','CwfoyVa980U','00:02:40','160','cool','2016-01-06 21:03:00','0','demo'),
+('881','tt2k8PGm-TI','00:04:00','240','I love you tu zayn malik','2016-01-06 21:03:00','0','demo'),
 
-('882','CwfoyVa980U','00:02:42','162','OMG I love sing I can’t stop singing it I love it','2016-01-06 21:03:00','0','demo'),
+('882','tt2k8PGm-TI','00:04:03','243','https://youtu.be/I2R-QRy-mOs','2016-01-06 21:03:00','0','demo'),
 
-('883','CwfoyVa980U','00:02:44','164','1:48 my mom when the teacher calls','2016-01-06 21:03:00','0','demo'),
+('883','tt2k8PGm-TI','00:04:06','246','I broke the repeat button. Stop me please!','2016-01-06 21:03:00','1','demo'),
 
-('884','CwfoyVa980U','00:02:46','166','I love the song but the video is kinda wired','2016-01-06 21:03:00','0','demo'),
+('884','tt2k8PGm-TI','00:04:09','249','Onedickerection','2016-01-06 21:03:00','1','demo'),
 
-('885','CwfoyVa980U','00:02:48','168','Just posted my cover. Hope you love it 🙂','2016-01-06 21:03:00','3','demo'),
+('885','tt2k8PGm-TI','00:04:12','252','😍😍😍😍😍😍😍😍😍😍😍😍','2016-01-06 21:03:00','0','demo'),
 
-('886','CwfoyVa980U','00:02:50','170','1:07','2016-01-06 21:03:00','0','demo'),
+('886','tt2k8PGm-TI','00:04:15','255','ZAYN LyricsDusk Till Dawn(feat. Sia)[Zayn:]Not tryna be indieNot tryna be coolJust tryna be in thisTell me are you too?Can you feel where the wind is?','2016-01-06 21:03:00','0','demo'),
 
-('887','CwfoyVa980U','00:02:52','172','Ai việt nam điểm danh 🚶','2016-01-06 21:03:00','0','demo'),
+('887','tt2k8PGm-TI','00:04:18','258','Это хит, ребята))))))  ^^bellissimo^^','2016-01-06 21:03:00','0','demo'),
 
-('888','CwfoyVa980U','00:02:54','174','Best song ever😍','2016-01-06 21:03:00','0','demo'),
+('888','tt2k8PGm-TI','00:04:21','261','One direction!!!!???','2016-01-06 21:03:00','0','demo'),
 
-('889','CwfoyVa980U','00:02:56','176','I love Charlie! Such a great voice <3','2016-01-06 21:03:00','0','demo'),
+('889','tt2k8PGm-TI','00:04:24','264',' Ill be with from dusk till Dawn baby Im a raindeer 😂','2016-01-06 21:03:00','1','demo'),
 
-('890','CwfoyVa980U','00:02:58','178','Wow Charlie Puth is now probably the Son of Doctor Strange.','2016-01-06 21:03:00','0','demo'),
+('890','tt2k8PGm-TI','00:04:27','267','Rodacy, polacy? Sprawdzamy obecność!','2016-01-06 21:03:00','0','demo'),
 
-('891','CwfoyVa980U','00:03:00','180','I love his songs','2016-01-06 21:03:00','0','demo'),
+('891','tt2k8PGm-TI','00:04:30','270','Awesome','2016-01-06 21:03:00','1','demo'),
 
-('892','CwfoyVa980U','00:03:02','182','good','2016-01-06 21:03:00','0','demo'),
+('892','tt2k8PGm-TI','00:04:33','273','Why did they have to tie up her hair in the end? It would have looked great loose and less like his mother...','2016-01-06 21:03:00','0','demo'),
 
-('893','CwfoyVa980U','00:03:04','184','I love the song but the video does not match what he is singing about. He is singing about cheating yet he is super happy in his video, like he is hap','2016-01-06 21:03:00','0','demo'),
+('893','tt2k8PGm-TI','00:04:36','276','I listen this song everyday❤️🔥👅','2016-01-06 21:03:00','1','demo'),
 
-('894','CwfoyVa980U','00:03:06','186','This is such an adorable video','2016-01-06 21:03:00','0','demo'),
+('894','tt2k8PGm-TI','00:04:39','279','fall in love','2016-01-06 21:03:00','1','demo'),
 
-('895','CwfoyVa980U','00:03:08','188','MA BOIS DANCE MOVES','2016-01-06 21:03:00','0','demo'),
+('895','tt2k8PGm-TI','00:04:42','282','Ele é muito lindo maravilhoso','2016-01-06 21:03:00','0','demo'),
 
-('896','CwfoyVa980U','00:03:10','190','1:52 when you remember is Saturday and not Monday','2016-01-06 21:03:00','0','demo'),
+('896','tt2k8PGm-TI','00:04:45','285','meu deus o cara nao consegue ter um tom grave na voz pra constrastar com a voz aguda dela pqp que decepçao','2016-01-06 21:03:00','0','demo'),
 
-('897','CwfoyVa980U','00:03:12','192','or he learn a dance from alan pardew against manchester united?','2016-01-06 21:03:00','0','demo'),
+('897','tt2k8PGm-TI','00:04:48','288','*0:18****-****0:19*Something magical !!','2016-01-06 21:03:00','0','demo'),
 
-('898','CwfoyVa980U','00:03:14','194','he need a dancing class','2016-01-06 21:03:00','0','demo'),
+('898','tt2k8PGm-TI','00:04:51','291','this video deserve more view and like','2016-01-06 21:03:00','2','demo'),
 
-('899','CwfoyVa980U','00:03:16','196','He doesnt know what to do with his arms at all, but I do like the song.','2016-01-06 21:03:00','0','demo'),
+('899','tt2k8PGm-TI','00:04:54','294','Dusk Till DawnNot tryna be indieNot tryna be coolJust tryna be in thisTell me how you chooseCan you feel why youre in thisCan you feel it throughAll o','2016-01-06 21:03:00','1','demo'),
 
-('900','CwfoyVa980U','00:03:18','198','My favorite song','2016-01-06 21:03:00','0','demo');
+('900','tt2k8PGm-TI','00:04:57','297','Lindooooooo❤❤❤❤','2016-01-06 21:03:00','1','demo');
 
 INSERT INTO comments(id, video_id, video_time, seconds, content, created_at, likes, username) VALUES 
 
