@@ -133,7 +133,6 @@
             <br/>
             <a href=<?= Url::getBase().'/public/privacy_policy.html"' ?> style="float: right">Privacy Policy</a>
             <br/>
-            <small style="float: right">&copy; 2015-2018 loadwave.com</small>
             <a class="close-reveal-modal" aria-label="Close">&#215;</a>
         </div>
         <div id="main" class="large-12 medium-12 small-12 column" ng-controller="HomeController">
