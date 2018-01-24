@@ -35,12 +35,11 @@
 ## Usage
 First thing you have to do is to sign up, you can use facebook, twitter, google authentification system to save time. Than you can access to the home page where you find a dashboard and the top commented videos, you choose one of those videos. Or you can choose a video from youtube website and modify the url from: http://www.youtube.com/watch?v=U3_d2RH9bqk To https://loadwave.herokuapp.com/watch?v=U3_d2RH9bqk
 
-##Demo
+## Demo
 #### URL
 <a href="https://loadwave.herokuapp.com/">https://loadwave.herokuapp.com/</a>
 #### Note
 All comments you will find out initially are extracted from youtube server and injected arbitrarily in the app database.
-
 
 ## Install
 
