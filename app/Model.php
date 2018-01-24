@@ -37,15 +37,15 @@ class Model
     }
 
 //Comments
-    public function getComments($id, $time, $offset, $limit, $user_id)
+    public function getComments($video_id, $time, $offset, $limit, $user_id)
     {
         $compare = Library::sumTheTime($time, "00:00:" . $offset);
         $time = Library::sumTheTime($time, "00:00:00");
         $ask_for = "SELECT a.*, (SELECT COUNT(*) FROM user_like b WHERE b.user_id = :user_id AND b.comment_id = a.id) liked FROM comments a
-					WHERE a.video_id = '".$id."' AND a.video_time < :compare AND (a.video_time > :time OR a.video_time = :time) ORDER BY a.likes DESC, a.created_at DESC LIMIT :limit;";
+					WHERE a.video_id = :video_id AND a.video_time < :compare AND (a.video_time > :time OR a.video_time = :time) ORDER BY a.likes DESC, a.created_at DESC LIMIT :limit;";
         $sql = $this->connection->prepare($ask_for);
         $sql->bindValue(":user_id", $user_id, \PDO::PARAM_INT);
-        //$sql->bindValue(":id", $id, \PDO::PARAM_INT);
+        $sql->bindValue(":video_id", $video_id, \PDO::PARAM_INT);
         $sql->bindValue(":compare", $compare, \PDO::PARAM_STR);
         $sql->bindValue(":time", $time, \PDO::PARAM_STR);
         $sql->bindValue(":limit", $limit, \PDO::PARAM_INT);
