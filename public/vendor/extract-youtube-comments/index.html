@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <title>Youtube Comments</title>
+    <script type="text/javascript" src="lib.js"></script>
+    <script type="text/javascript">
+    video_id = "tt2k8PGm-TI";
+    start = 801;
+    loadJSON(function(response) {
+        var duration = response.items[0].contentDetails.duration;
+        convert(duration);
+        var x = parseInt(seconds / 100);
+        window.startTime = 0;
+        window.video_time = "00:00:00";
+        loadJSON(function(response) {
+            console.log("INSERT INTO comments(id, video_id, video_time, seconds, content, created_at, likes, username) VALUES ")
+            response.items.forEach(function(item, index) {
+                id = index + start;
+                var escaped = mysql_real_escape_string(item.snippet.topLevelComment.snippet.textDisplay);
+                var comment = escaped.substring(0,150);
+                console.log("('"+id+"','"+item.snippet.videoId+"','"+video_time+"','"+startTime+"','"+comment+"','2016-01-06 21:03:00','"+item.snippet.topLevelComment.snippet.likeCount+"','demo'),");
+                startTime = startTime + x;
+                updateVideoTime();
+            });
+        }, "https://content.googleapis.com/youtube/v3/commentThreads?part=snippet&maxResults=100&textFormat=plainText&videoId=" + video_id + "&fields=items%2Fsnippet&key=AIzaSyAD3eZcTp8Tp_7ou5cKrmcZpLopbgK9RwY");
+    }, "https://www.googleapis.com/youtube/v3/videos?part=snippet,contentDetails&id=" + video_id + "&key=AIzaSyAD3eZcTp8Tp_7ou5cKrmcZpLopbgK9RwY");
+    </script>
+</head>
+
+<body>
+</body>
+
+</html>
