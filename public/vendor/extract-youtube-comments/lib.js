@@ -57,8 +57,7 @@ function mysql_real_escape_string (str) {
             case "'":
             case "\\":
             case "%":
-                return ""; // prepends a backslash to backslash, percent,
-                                  // and double/single quotes
+                return "";
         }
     });
 }
