@@ -40,9 +40,7 @@ At this moment, the loadwave app runs under a basic heroku web server with the s
 <a href="https://gust.com/companies/loadwave">Gust Profile</a>
 
 ## Demo
-#### URL
 <a href="https://loadwave.herokuapp.com/">https://loadwave.herokuapp.com/</a>
-#### Note
 All comments you will find out initially are extracted from youtube server and injected arbitrarily in the app database.
 
 ## Features
