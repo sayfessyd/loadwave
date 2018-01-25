@@ -37,7 +37,8 @@ First thing you have to do is to sign up, you can use facebook, twitter, google 
 
 ## Collaborating
 At this moment, the loadwave app runs under a basic heroku web server with the simplest features and needs much more investment to improve it. For those who want to collaborate, please send your requests by email to specialappdev@gmail.com.
-### Gust
+
+## Funding
 <a href="https://gust.com/companies/loadwave">Gust Profile</a>
 
 ## Install
